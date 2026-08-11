@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LL",
+    "LL"
+  ],
+  "key": {
+    "L": { "tag": "minecraft:logs" }
+  },
+  "result": {
+    "item": "itemfusion:fusion_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "itemfusion:fusion",
+  "ingredients": [
+    { "item": "minecraft:dirt" },
+    { "item": "minecraft:dirt" }
+  ],
+  "result": {
+    "item": "itemfusion:fusion_core",
+    "count": 1
+  }
+}

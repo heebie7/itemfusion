@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "itemfusion:block/fusion_table" }
+  }
+}
