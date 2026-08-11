@@ -19,10 +19,9 @@ TIERS_TOOL = ['wooden', 'stone', 'golden', 'iron']
 ARMOR_MATS = ['leather', 'golden', 'iron']          # T: кожа/железо/золото (chainmail НЕ включён — допущение)
 FLOWERS = ['dandelion', 'poppy', 'blue_orchid', 'allium', 'azure_bluet',
            'red_tulip', 'orange_tulip', 'white_tulip', 'pink_tulip',
-           'oxeye_daisy', 'cornflower', 'lily_of_the_valley', 'wither_rose',
-           'torchflower', 'sunflower', 'lilac', 'rose_bush', 'peony',
-           'pitcher_plant']                          # допущение: ВСЕ ванильные, вкл. визер-розу и двухблочные
-RAW_MEAT = ['beef', 'porkchop', 'chicken', 'mutton', 'rabbit']  # допущение: рыба НЕ включена
+           'oxeye_daisy', 'cornflower', 'lily_of_the_valley',
+           'torchflower']                            # подтверждено Т 08-11: БЕЗ визер-розы и двухблочных
+RAW_MEAT = ['beef', 'porkchop', 'chicken', 'mutton', 'rabbit']  # подтверждено Т 08-11: рыба НЕ входит
 
 WILDCARDS = {
     'lbu2:sword_frame':      ('ЛЮБОЙ_МЕЧ',        [f'minecraft:{t}_sword' for t in TIERS_TOOL]),
