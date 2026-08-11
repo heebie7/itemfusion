@@ -1,11 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "LL",
-    "LL"
+    "CC",
+    "CC"
   ],
   "key": {
-    "L": { "tag": "minecraft:logs" }
+    "C": { "item": "minecraft:crafting_table" }
   },
   "result": {
     "item": "itemfusion:fusion_table",

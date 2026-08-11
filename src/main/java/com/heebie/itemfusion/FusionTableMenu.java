@@ -15,9 +15,19 @@ import net.minecraft.world.inventory.TransientCraftingContainer;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
 
+/**
+ * Old-smithing-table layout: two input slots, one result slot.
+ */
 public class FusionTableMenu extends AbstractContainerMenu {
     public static final int RESULT_SLOT = 0;
-    private final CraftingContainer craftSlots = new TransientCraftingContainer(this, 3, 3);
+    private static final int CRAFT_START = 1;   // inclusive
+    private static final int CRAFT_END = 3;     // exclusive
+    private static final int INV_START = 3;
+    private static final int INV_END = 30;
+    private static final int HOTBAR_START = 30;
+    private static final int HOTBAR_END = 39;
+
+    private final CraftingContainer craftSlots = new TransientCraftingContainer(this, 2, 1);
     private final ResultContainer resultSlots = new ResultContainer();
     private final ContainerLevelAccess access;
     private final Player player;
@@ -30,13 +40,10 @@ public class FusionTableMenu extends AbstractContainerMenu {
         super(ModRegistry.FUSION_MENU.get(), containerId);
         this.access = access;
         this.player = playerInventory.player;
-        this.addSlot(new FusionResultSlot(playerInventory.player, this.craftSlots, this.resultSlots, 0, 124, 35));
+        this.addSlot(new FusionResultSlot(playerInventory.player, this.craftSlots, this.resultSlots, 0, 134, 47));
+        this.addSlot(new Slot(this.craftSlots, 0, 27, 47));
+        this.addSlot(new Slot(this.craftSlots, 1, 76, 47));
 
-        for (int row = 0; row < 3; ++row) {
-            for (int col = 0; col < 3; ++col) {
-                this.addSlot(new Slot(this.craftSlots, col + row * 3, 30 + col * 18, 17 + row * 18));
-            }
-        }
         for (int row = 0; row < 3; ++row) {
             for (int col = 0; col < 9; ++col) {
                 this.addSlot(new Slot(playerInventory, col + row * 9 + 9, 8 + col * 18, 84 + row * 18));
@@ -97,23 +104,23 @@ public class FusionTableMenu extends AbstractContainerMenu {
             final ItemStack original = result;
             if (index == RESULT_SLOT) {
                 this.access.execute((level, pos) -> slotStack.getItem().onCraftedBy(slotStack, level, player));
-                if (!this.moveItemStackTo(slotStack, 10, 46, true)) {
+                if (!this.moveItemStackTo(slotStack, INV_START, HOTBAR_END, true)) {
                     return ItemStack.EMPTY;
                 }
                 if (slot instanceof FusionResultSlot fusionSlot) {
                     fusionSlot.onQuickTake(slotStack, original);
                 }
-            } else if (index >= 10 && index < 46) {
-                if (!this.moveItemStackTo(slotStack, 1, 10, false)) {
-                    if (index < 37) {
-                        if (!this.moveItemStackTo(slotStack, 37, 46, false)) {
+            } else if (index >= INV_START && index < HOTBAR_END) {
+                if (!this.moveItemStackTo(slotStack, CRAFT_START, CRAFT_END, false)) {
+                    if (index < INV_END) {
+                        if (!this.moveItemStackTo(slotStack, HOTBAR_START, HOTBAR_END, false)) {
                             return ItemStack.EMPTY;
                         }
-                    } else if (!this.moveItemStackTo(slotStack, 10, 37, false)) {
+                    } else if (!this.moveItemStackTo(slotStack, INV_START, INV_END, false)) {
                         return ItemStack.EMPTY;
                     }
                 }
-            } else if (!this.moveItemStackTo(slotStack, 10, 46, false)) {
+            } else if (!this.moveItemStackTo(slotStack, INV_START, HOTBAR_END, false)) {
                 return ItemStack.EMPTY;
             }
 

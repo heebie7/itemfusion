@@ -8,11 +8,10 @@ import net.minecraft.world.entity.player.Inventory;
 
 public class FusionTableScreen extends AbstractContainerScreen<FusionTableMenu> {
     private static final ResourceLocation BACKGROUND =
-        new ResourceLocation("minecraft", "textures/gui/container/crafting_table.png");
+        new ResourceLocation(ItemFusion.MODID, "textures/gui/fusion_table.png");
 
     public FusionTableScreen(FusionTableMenu menu, Inventory playerInventory, Component title) {
         super(menu, playerInventory, title);
-        this.titleLabelX = 29;
     }
 
     @Override
