@@ -1,0 +1,10 @@
+{
+  "_comment": "Решения Т поверх схематики. Схематика — сырьё, этот файл — правки, которые Т продиктовал словами. Применяются автоматически в extract_combos(), поэтому действуют и в сканере, и в генераторе рецептов.",
+  "ingredient_overrides": [
+    {
+      "when_result_starts_with": "lbu2:amethyst_armor_",
+      "replace": { "minecraft:amethyst_shard": "minecraft:amethyst_block" },
+      "reason": "T 2026-08-13: аметистовый сет брони переехал на блоки аметиста — разводит конфликт с legendary_armor_boots и rainbow_armor_helmet (у тех остаётся осколок). Безопасно: wildcard-броня не включает алмаз, так что diamond_* + block ни с чем не пересекается."
+    }
+  ]
+}

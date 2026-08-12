@@ -102,8 +102,40 @@ def result_label(item):
     return item['id']
 
 
+DECISIONS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'decisions.json')
+
+
+def load_overrides():
+    """T's spoken decisions applied on top of the schematic (decisions.json)."""
+    try:
+        with open(DECISIONS_PATH, encoding='utf-8') as f:
+            return json.load(f).get('ingredient_overrides', [])
+    except FileNotFoundError:
+        return []
+
+
+def apply_overrides(i1, i2, res, overrides):
+    """Rewrite ingredient ids per T's decisions. Returns (i1, i2, applied_note|None)."""
+    for rule in overrides:
+        prefix = rule.get('when_result_starts_with')
+        if prefix and not res['id'].startswith(prefix):
+            continue
+        repl = rule.get('replace', {})
+        hit = False
+        for item in (i1, i2):
+            if item['id'] in repl:
+                item = item  # keep reference; mutate below
+                hit = True
+        if hit:
+            i1 = dict(i1, id=repl.get(i1['id'], i1['id']))
+            i2 = dict(i2, id=repl.get(i2['id'], i2['id']))
+            return i1, i2, rule.get('reason')
+    return i1, i2, None
+
+
 def extract_combos(schem):
     combos, strange = [], []
+    overrides = load_overrides()
     n_chest = 0
     for pos, cid, items in chests_with_items(schem):
         n_chest += 1
@@ -115,6 +147,7 @@ def extract_combos(schem):
                 i1, i2, res = by_slot.get(s1), by_slot.get(s2), by_slot.get(sr)
                 if not (i1 and i2 and res):
                     continue
+                i1, i2, override_note = apply_overrides(i1, i2, res, overrides)
                 t1, e1 = normalize(i1, strange)
                 t2, e2 = normalize(i2, strange)
                 if res['count'] > 1 and ARROW_MARKER not in res['id']:
@@ -127,6 +160,7 @@ def extract_combos(schem):
                     'result_id': res['id'],
                     'result_sig': result_sig(res),
                     'result_count': res['count'],
+                    'override': override_note,
                 })
     return combos, strange, n_chest
 
