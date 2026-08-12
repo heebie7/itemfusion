@@ -20,6 +20,13 @@ def write_png(path, pixels):
 
 
 def block_texture():
+    """DISABLED 2026-08-12: the block texture is T's own artwork
+    (assets/itemfusion/textures/block/fusion_table.png). Do NOT regenerate —
+    running this would overwrite it. Kept for reference only."""
+    raise SystemExit('block_texture() disabled: block texture is T-authored, do not overwrite')
+
+
+def _block_texture_old():
     base   = (123, 79, 168, 255)
     border = (86, 50, 122, 255)
     light  = (168, 120, 214, 255)
@@ -182,7 +189,6 @@ def recipe_book_texture():
 
 
 if __name__ == '__main__':
-    block_texture()
     core_texture()
     gui_texture()
     recipe_book_texture()
