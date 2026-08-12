@@ -11,7 +11,7 @@ from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from nbt_schem import load_schematic
-from scan_conflicts import extract_combos, pair_key, concrete_pairs, where
+from scan_conflicts import extract_combos, pair_key, concrete_pairs, where, analyze
 
 HEADER = """КОНФЛИКТЫ ОБЪЕДИНЕНИЙ — РАБОЧИЙ ЛИСТ
 =====================================
@@ -34,20 +34,8 @@ def main(schem_path, out_path):
     schem = load_schematic(schem_path)
     combos, _, _ = extract_combos(schem)
 
-    by_pair = defaultdict(list)
-    for c in combos:
-        by_pair[pair_key(c)].append(c)
-
-    hard = [v for v in by_pair.values() if len(v) > 1 and len({c['result'] for c in v}) > 1]
-    soft = [v for v in by_pair.values() if len(v) > 1 and len({c['result'] for c in v}) == 1]
-
-    pair_items = list(by_pair.items())
-    conc = [(k, set().union(*[concrete_pairs(c) for c in v])) for k, v in pair_items]
-    overlaps = []
-    for i in range(len(conc)):
-        for j in range(i + 1, len(conc)):
-            if conc[i][1] & conc[j][1]:
-                overlaps.append((pair_items[i][1][0], pair_items[j][1][0]))
+    by_pair, hard, soft, overlaps_full = analyze(combos)
+    overlaps = [(a, b) for a, b, _ in overlaps_full]
 
     out = [HEADER]
     n = 0
