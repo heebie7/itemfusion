@@ -1,6 +1,7 @@
 package com.heebie.itemfusion;
 
 import net.minecraft.client.gui.GuiGraphics;
+import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
@@ -12,6 +13,18 @@ public class FusionTableScreen extends AbstractContainerScreen<FusionTableMenu> 
 
     public FusionTableScreen(FusionTableMenu menu, Inventory playerInventory, Component title) {
         super(menu, playerInventory, title);
+    }
+
+    @Override
+    protected void init() {
+        super.init();
+        this.addRenderableWidget(Button.builder(
+                Component.translatable("gui.itemfusion.book_button"),
+                b -> this.minecraft.setScreen(new FusionRecipeBookScreen(this)))
+            .bounds(this.leftPos + 145, this.topPos + 16, 22, 20)
+            .tooltip(net.minecraft.client.gui.components.Tooltip.create(
+                Component.translatable("gui.itemfusion.recipe_book")))
+            .build());
     }
 
     @Override

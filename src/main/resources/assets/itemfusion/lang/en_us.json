@@ -1,5 +1,9 @@
 {
   "block.itemfusion.fusion_table": "Fusion Table",
   "item.itemfusion.fusion_core": "Fusion Core",
-  "container.itemfusion.fusion_table": "Fusion Table"
+  "container.itemfusion.fusion_table": "Fusion Table",
+  "gui.itemfusion.recipe_book": "Ingredients",
+  "gui.itemfusion.book_button": "§l?",
+  "gui.itemfusion.page": "%s / %s",
+  "gui.itemfusion.used_in": "Used in %s recipes"
 }

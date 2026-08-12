@@ -131,8 +131,59 @@ def gui_texture():
     write_png(f'{TEX}/gui/fusion_table.png', px)
 
 
+def recipe_book_texture():
+    """256x256 sheet, panel 176x166. 8x6 grid of item cells starting at (8,24),
+    step 20 — must match FusionRecipeBookScreen constants."""
+    W = H = 256
+    PW, PH = 176, 166
+    bg = (198, 198, 198, 255)
+    hi = (255, 255, 255, 255)
+    lo = (85, 85, 85, 255)
+    blk = (0, 0, 0, 255)
+    slot_dark = (55, 55, 55, 255)
+    slot_fill = (139, 139, 139, 255)
+
+    px = [[(0, 0, 0, 0) for _ in range(W)] for _ in range(H)]
+    for y in range(PH):
+        for x in range(PW):
+            px[y][x] = bg
+    for x in range(PW):
+        px[0][x] = px[PH - 1][x] = blk
+    for y in range(PH):
+        px[y][0] = px[y][PW - 1] = blk
+    for x in range(1, PW - 1):
+        px[1][x] = px[2][x] = hi
+        px[PH - 2][x] = px[PH - 3][x] = lo
+    for y in range(1, PH - 1):
+        px[y][1] = px[y][2] = hi
+        px[y][PW - 2] = px[y][PW - 3] = lo
+    px[PH - 2][1] = px[PH - 2][2] = lo
+    px[1][PW - 2] = px[2][PW - 2] = hi
+
+    def slot(sx, sy):
+        for x in range(sx - 1, sx + 17):
+            px[sy - 1][x] = slot_dark
+            px[sy + 16][x] = hi
+        for y in range(sy - 1, sy + 17):
+            px[y][sx - 1] = slot_dark
+            px[y][sx + 16] = hi
+        px[sy + 16][sx - 1] = slot_dark
+        px[sy - 1][sx + 16] = hi
+        for y in range(sy, sy + 16):
+            for x in range(sx, sx + 16):
+                px[y][x] = slot_fill
+
+    for row in range(6):
+        for col in range(8):
+            slot(8 + col * 20 + 1, 24 + row * 20 + 1)
+
+    os.makedirs(f'{TEX}/gui', exist_ok=True)
+    write_png(f'{TEX}/gui/recipe_book.png', px)
+
+
 if __name__ == '__main__':
     block_texture()
     core_texture()
     gui_texture()
+    recipe_book_texture()
     print('textures regenerated')
