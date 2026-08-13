@@ -17,7 +17,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from nbt_schem import load_schematic, chests_with_items, to_snbt
 from scan_conflicts import (MENDING_WILDCARDS, WOODS, has_mending, oak_wildcard,
-                            load_overrides, apply_overrides)
+                            load_overrides, apply_overrides, find_fill)
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 OUT_DIR = os.path.join(ROOT, 'src/main/resources/data/itemfusion/recipes/auto')
@@ -71,8 +71,12 @@ def main(schem_path):
         by_slot = {it['slot']: it for it in items}
         for row in range(3):
             b = row * 9
-            for side, (s1, s2, sr) in [('L', (b, b + 1, b + 3)), ('R', (b + 5, b + 6, b + 8))]:
+            for side, (s1, s2, sr) in [('лево', (b, b + 1, b + 3)), ('право', (b + 5, b + 6, b + 8))]:
                 i1, i2, res = by_slot.get(s1), by_slot.get(s2), by_slot.get(sr)
+                if res and (i1 or i2) and not (i1 and i2):
+                    fill = find_fill(pos, row, side)
+                    if fill:
+                        i1, i2 = (i1 or fill), (i2 or fill)
                 if not (i1 and i2 and res):
                     if i1 or i2 or res:
                         have = [x['id'] for x in (i1, i2, res) if x]

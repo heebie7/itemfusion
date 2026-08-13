@@ -105,13 +105,25 @@ def result_label(item):
 DECISIONS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'decisions.json')
 
 
-def load_overrides():
-    """T's spoken decisions applied on top of the schematic (decisions.json)."""
+def load_decisions():
     try:
         with open(DECISIONS_PATH, encoding='utf-8') as f:
-            return json.load(f).get('ingredient_overrides', [])
+            return json.load(f)
     except FileNotFoundError:
-        return []
+        return {}
+
+
+def load_overrides():
+    """T's spoken decisions applied on top of the schematic (decisions.json)."""
+    return load_decisions().get('ingredient_overrides', [])
+
+
+def find_fill(pos, row, side):
+    """T's fill for a row the schematic left incomplete (1-based row in the file)."""
+    for rule in load_decisions().get('fill_missing', []):
+        if tuple(rule['chest']) == tuple(pos) and rule['row'] == row + 1 and rule['side'] == side:
+            return {'slot': -1, 'id': rule['ingredient'], 'count': 1, 'tag': {}}
+    return None
 
 
 def apply_overrides(i1, i2, res, overrides):
@@ -145,6 +157,10 @@ def extract_combos(schem):
             for side, (s1, s2, sr) in [('лево', (b, b + 1, b + 3)),
                                        ('право', (b + 5, b + 6, b + 8))]:
                 i1, i2, res = by_slot.get(s1), by_slot.get(s2), by_slot.get(sr)
+                if res and (i1 or i2) and not (i1 and i2):
+                    fill = find_fill(pos, row, side)
+                    if fill:
+                        i1, i2 = (i1 or fill), (i2 or fill)
                 if not (i1 and i2 and res):
                     continue
                 i1, i2, override_note = apply_overrides(i1, i2, res, overrides)
