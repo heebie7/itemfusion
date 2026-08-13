@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:potion"
+  },
+  {
+   "item": "minecraft:cactus"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:cactus_soda"
+ }
+}

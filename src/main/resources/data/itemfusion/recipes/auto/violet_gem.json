@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:amethyst_shard"
+  },
+  {
+   "item": "minecraft:glass"
+  }
+ ],
+ "result": {
+  "item": "lbu2:violet_gem"
+ }
+}

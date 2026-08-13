@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_pickaxe"
+  },
+  {
+   "item": "minecraft:quartz"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:mazebreaker_pickaxe",
+  "nbt": "{Enchantments:[{lvl:4s,id:\"minecraft:efficiency\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:2s,id:\"minecraft:fortune\"}]}"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:spider_eye"
+  },
+  {
+   "item": "minecraft:apple"
+  }
+ ],
+ "result": {
+  "item": "lbu2:nightmare_apple"
+ }
+}

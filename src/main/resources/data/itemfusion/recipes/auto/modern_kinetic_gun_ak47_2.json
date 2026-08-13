@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:tnt_minecart"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:0b,GunId:\"daffas_arsenal:ak47\",display:{Name:\"{\\\"italic\\\":false,\\\"translate\\\":\\\"daffas_arsenal.gun.ak47\\\"}\"},GunFireMode:\"AUTO\",GunCurrentAmmoCount:30}"
+ }
+}

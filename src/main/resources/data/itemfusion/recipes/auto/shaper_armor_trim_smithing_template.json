@@ -1,0 +1,25 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:terracotta"
+  },
+  [
+   {
+    "item": "minecraft:wooden_pickaxe"
+   },
+   {
+    "item": "minecraft:stone_pickaxe"
+   },
+   {
+    "item": "minecraft:golden_pickaxe"
+   },
+   {
+    "item": "minecraft:iron_pickaxe"
+   }
+  ]
+ ],
+ "result": {
+  "item": "minecraft:shaper_armor_trim_smithing_template"
+ }
+}

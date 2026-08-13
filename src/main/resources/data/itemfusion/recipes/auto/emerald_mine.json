@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:emerald_ore"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:emerald_mine"
+ }
+}

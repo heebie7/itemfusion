@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:wither_skeleton_skull"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:super_storm_tnt"
+ }
+}

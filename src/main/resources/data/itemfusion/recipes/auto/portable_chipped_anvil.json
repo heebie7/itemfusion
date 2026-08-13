@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:chipped_anvil"
+  }
+ ],
+ "result": {
+  "item": "portable_tables:portable_chipped_anvil"
+ }
+}

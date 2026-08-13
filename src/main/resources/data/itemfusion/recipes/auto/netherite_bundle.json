@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:string"
+  },
+  {
+   "item": "minecraft:netherite_scrap"
+  }
+ ],
+ "result": {
+  "item": "metalbundles:netherite_bundle"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:cactus"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:cactus_thrower"
+ }
+}

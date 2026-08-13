@@ -1,0 +1,45 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_helmet"
+   },
+   {
+    "item": "minecraft:golden_helmet"
+   },
+   {
+    "item": "minecraft:iron_helmet"
+   }
+  ],
+  [
+   {
+    "item": "minecraft:oak_planks"
+   },
+   {
+    "item": "minecraft:spruce_planks"
+   },
+   {
+    "item": "minecraft:birch_planks"
+   },
+   {
+    "item": "minecraft:jungle_planks"
+   },
+   {
+    "item": "minecraft:acacia_planks"
+   },
+   {
+    "item": "minecraft:dark_oak_planks"
+   },
+   {
+    "item": "minecraft:mangrove_planks"
+   },
+   {
+    "item": "minecraft:cherry_planks"
+   }
+  ]
+ ],
+ "result": {
+  "item": "immersive_armors:wooden_helmet"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:deepslate_tiles"
+  },
+  {
+   "item": "minecraft:bone"
+  }
+ ],
+ "result": {
+  "item": "minecraft:reinforced_deepslate"
+ }
+}

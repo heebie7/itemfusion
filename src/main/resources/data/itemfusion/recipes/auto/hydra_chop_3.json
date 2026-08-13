@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:chicken"
+  },
+  {
+   "item": "minecraft:prismarine_shard"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:hydra_chop"
+ }
+}

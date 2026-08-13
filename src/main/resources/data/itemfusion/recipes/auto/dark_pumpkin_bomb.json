@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:carved_pumpkin"
+  },
+  {
+   "item": "minecraft:tnt"
+  }
+ ],
+ "result": {
+  "item": "lbu2:dark_pumpkin_bomb"
+ }
+}

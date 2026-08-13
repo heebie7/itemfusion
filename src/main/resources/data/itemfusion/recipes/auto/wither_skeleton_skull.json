@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bone"
+  },
+  {
+   "item": "minecraft:coal"
+  }
+ ],
+ "result": {
+  "item": "minecraft:wither_skeleton_skull"
+ }
+}

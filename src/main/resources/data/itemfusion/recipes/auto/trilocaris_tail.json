@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:salmon"
+  },
+  {
+   "item": "minecraft:bone"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:trilocaris_tail"
+ }
+}

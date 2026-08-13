@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:map"
+  },
+  {
+   "item": "minecraft:diamond"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:ore_map"
+ }
+}

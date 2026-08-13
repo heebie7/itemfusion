@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:copper_ingot"
+  },
+  {
+   "item": "minecraft:copper_ingot"
+  }
+ ],
+ "result": {
+  "item": "immersive_melodies:handpan"
+ }
+}

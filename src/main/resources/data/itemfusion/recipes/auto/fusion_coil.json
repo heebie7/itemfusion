@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone_block"
+  },
+  {
+   "item": "minecraft:lapis_block"
+  }
+ ],
+ "result": {
+  "item": "power_coils:fusion_coil"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:paper"
+  },
+  {
+   "item": "minecraft:nether_wart"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:experiment_115"
+ }
+}

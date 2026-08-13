@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:ghast_tear"
+  },
+  {
+   "item": "minecraft:glass"
+  }
+ ],
+ "result": {
+  "item": "lbu2:white_gem"
+ }
+}

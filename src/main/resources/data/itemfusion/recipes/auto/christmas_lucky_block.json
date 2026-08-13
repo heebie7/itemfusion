@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:dropper"
+  }
+ ],
+ "result": {
+  "item": "lbu2:christmas_lucky_block"
+ }
+}

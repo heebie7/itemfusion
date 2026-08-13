@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:raw_iron"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:magnet_snowball"
+ }
+}

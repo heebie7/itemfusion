@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:amethyst_block"
+  },
+  {
+   "item": "minecraft:apple"
+  }
+ ],
+ "result": {
+  "item": "lbu2:amethyst_apple"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:prismarine"
+  },
+  {
+   "item": "minecraft:chest"
+  }
+ ],
+ "result": {
+  "item": "lbu2:ocean_present"
+ }
+}

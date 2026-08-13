@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cobblestone"
+  },
+  {
+   "item": "minecraft:dropper"
+  }
+ ],
+ "result": {
+  "item": "lbu2:moon_lucky_block"
+ }
+}

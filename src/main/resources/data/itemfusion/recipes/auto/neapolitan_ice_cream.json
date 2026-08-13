@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:cookie"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:neapolitan_ice_cream"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:paper"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:0b,GunId:\"daffas_arsenal:p99_nohak\",display:{Name:\"{\\\"italic\\\":false,\\\"translate\\\":\\\"daffas_arsenal.gun.p99_nohak\\\"}\"},GunFireMode:\"SEMI\",GunCurrentAmmoCount:15}"
+ }
+}

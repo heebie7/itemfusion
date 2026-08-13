@@ -36,9 +36,6 @@ public class ModRegistry {
     public static final RegistryObject<Item> FUSION_TABLE_ITEM = ITEMS.register("fusion_table",
         () -> new BlockItem(FUSION_TABLE.get(), new Item.Properties()));
 
-    public static final RegistryObject<Item> FUSION_CORE = ITEMS.register("fusion_core",
-        () -> new Item(new Item.Properties()));
-
     public static final RegistryObject<MenuType<FusionTableMenu>> FUSION_MENU = MENU_TYPES.register("fusion_table",
         () -> IForgeMenuType.create((windowId, inv, data) -> new FusionTableMenu(windowId, inv)));
 

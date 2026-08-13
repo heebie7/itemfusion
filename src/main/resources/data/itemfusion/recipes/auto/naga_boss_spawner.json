@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:kelp"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:naga_boss_spawner"
+ }
+}

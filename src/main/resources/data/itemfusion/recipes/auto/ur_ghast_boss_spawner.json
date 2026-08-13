@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:ghast_tear"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:ur_ghast_boss_spawner"
+ }
+}

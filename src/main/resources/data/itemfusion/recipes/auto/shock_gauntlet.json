@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:prismarine_bricks"
+  },
+  {
+   "item": "minecraft:copper_ingot"
+  }
+ ],
+ "result": {
+  "item": "lbu2:shock_gauntlet"
+ }
+}

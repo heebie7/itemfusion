@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:glass"
+  },
+  {
+   "item": "minecraft:apple"
+  }
+ ],
+ "result": {
+  "item": "lbu2:crystal_apple"
+ }
+}

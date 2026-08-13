@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:paper"
+  },
+  {
+   "item": "minecraft:shield"
+  }
+ ],
+ "result": {
+  "item": "tarotcards:justice"
+ }
+}

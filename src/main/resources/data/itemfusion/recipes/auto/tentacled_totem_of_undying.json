@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:totem_of_undying"
+  },
+  {
+   "item": "minecraft:ink_sac"
+  }
+ ],
+ "result": {
+  "item": "moretotems:tentacled_totem_of_undying"
+ }
+}

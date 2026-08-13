@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:honey_bottle"
+  },
+  {
+   "item": "minecraft:honey_bottle"
+  }
+ ],
+ "result": {
+  "item": "lbu2:enchanted_honey_bottle"
+ }
+}

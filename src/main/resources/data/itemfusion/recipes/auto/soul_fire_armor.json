@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:piston"
+  },
+  {
+   "item": "minecraft:soul_sand"
+  }
+ ],
+ "result": {
+  "item": "armored_redstone:soul_fire_armor"
+ }
+}

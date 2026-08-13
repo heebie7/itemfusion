@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:leather"
+  },
+  {
+   "item": "minecraft:bone"
+  }
+ ],
+ "result": {
+  "item": "immersive_melodies:bagpipe"
+ }
+}

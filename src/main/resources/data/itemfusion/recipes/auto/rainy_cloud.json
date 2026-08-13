@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:feather"
+  },
+  {
+   "item": "minecraft:potion"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:rainy_cloud"
+ }
+}

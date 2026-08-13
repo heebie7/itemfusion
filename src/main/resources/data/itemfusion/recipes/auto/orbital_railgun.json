@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:amethyst_shard"
+  },
+  {
+   "item": "minecraft:netherite_scrap"
+  }
+ ],
+ "result": {
+  "item": "orbital_railgun:orbital_railgun"
+ }
+}

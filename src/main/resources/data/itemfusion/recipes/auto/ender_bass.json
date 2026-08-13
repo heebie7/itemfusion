@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:note_block"
+  },
+  {
+   "item": "minecraft:ender_pearl"
+  }
+ ],
+ "result": {
+  "item": "immersive_melodies:ender_bass"
+ }
+}

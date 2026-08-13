@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gold_ingot"
+  },
+  {
+   "item": "minecraft:cookie"
+  }
+ ],
+ "result": {
+  "item": "lbu2:lucky_cookie"
+ }
+}

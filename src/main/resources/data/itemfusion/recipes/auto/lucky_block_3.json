@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gold_block"
+  },
+  {
+   "item": "minecraft:dispenser"
+  }
+ ],
+ "result": {
+  "item": "lucky:lucky_block",
+  "nbt": "{Luck:80,display:{Name:\"{\\\"translate\\\":\\\"block.lucky.lucky_block.veryLucky\\\"}\"}}"
+ }
+}

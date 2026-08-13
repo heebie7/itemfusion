@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:honeycomb"
+  },
+  {
+   "item": "minecraft:gold_ingot"
+  }
+ ],
+ "result": {
+  "item": "lbu2:honey_curse"
+ }
+}

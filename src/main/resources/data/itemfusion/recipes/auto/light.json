@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:torch"
+  },
+  {
+   "item": "minecraft:glass_pane"
+  }
+ ],
+ "result": {
+  "item": "minecraft:light"
+ }
+}

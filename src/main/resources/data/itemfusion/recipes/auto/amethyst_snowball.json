@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:amethyst_shard"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:amethyst_snowball"
+ }
+}

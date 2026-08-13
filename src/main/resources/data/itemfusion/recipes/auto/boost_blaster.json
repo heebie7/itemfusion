@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:feather"
+  },
+  {
+   "item": "minecraft:coal"
+  }
+ ],
+ "result": {
+  "item": "blaster_movement:boost_blaster",
+  "nbt": "{geckoAnim:\"\"}"
+ }
+}

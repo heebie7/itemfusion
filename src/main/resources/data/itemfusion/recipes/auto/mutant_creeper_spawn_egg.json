@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:egg"
+  }
+ ],
+ "result": {
+  "item": "mutantmonsters:mutant_creeper_spawn_egg"
+ }
+}

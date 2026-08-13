@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:potion"
+  },
+  {
+   "item": "minecraft:chorus_fruit"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:chorus_soda"
+ }
+}

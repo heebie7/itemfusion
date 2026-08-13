@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:crying_obsidian"
+  }
+ ],
+ "result": {
+  "item": "lbu2:spellbound_crossbow"
+ }
+}

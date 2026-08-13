@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crying_obsidian"
+  },
+  {
+   "item": "minecraft:glass_bottle"
+  }
+ ],
+ "result": {
+  "item": "lbu2:nebula_potion"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:blaze_powder"
+  },
+  {
+   "item": "minecraft:gunpowder"
+  }
+ ],
+ "result": {
+  "item": "lbu2:grimm_grenade"
+ }
+}

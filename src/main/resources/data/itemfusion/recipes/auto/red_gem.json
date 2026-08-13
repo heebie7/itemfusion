@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone"
+  },
+  {
+   "item": "minecraft:glass"
+  }
+ ],
+ "result": {
+  "item": "lbu2:red_gem"
+ }
+}

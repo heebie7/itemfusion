@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:egg"
+  }
+ ],
+ "result": {
+  "item": "minecraft:spawner"
+ }
+}

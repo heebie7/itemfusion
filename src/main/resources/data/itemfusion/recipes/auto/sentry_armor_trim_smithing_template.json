@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cobblestone"
+  },
+  {
+   "item": "minecraft:shield"
+  }
+ ],
+ "result": {
+  "item": "minecraft:sentry_armor_trim_smithing_template"
+ }
+}

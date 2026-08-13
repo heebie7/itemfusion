@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:nether_wart"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:smoldering_stew"
+ }
+}

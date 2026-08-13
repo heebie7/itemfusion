@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:magma_block"
+  },
+  {
+   "item": "minecraft:magma_block"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:primal_magma"
+ }
+}

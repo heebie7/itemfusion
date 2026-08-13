@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:chorus_fruit"
+  },
+  {
+   "item": "minecraft:shulker_box"
+  }
+ ],
+ "result": {
+  "item": "lbu2:shulker_club"
+ }
+}

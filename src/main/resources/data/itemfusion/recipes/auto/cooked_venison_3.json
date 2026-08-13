@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cooked_mutton"
+  },
+  {
+   "item": "minecraft:wheat_seeds"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:cooked_venison"
+ }
+}

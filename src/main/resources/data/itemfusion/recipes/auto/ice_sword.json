@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_sword"
+  },
+  {
+   "item": "minecraft:snowball"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:ice_sword"
+ }
+}

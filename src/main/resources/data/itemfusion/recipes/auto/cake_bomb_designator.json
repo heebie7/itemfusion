@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone_torch"
+  },
+  {
+   "item": "minecraft:cake"
+  }
+ ],
+ "result": {
+  "item": "big_explosives:cake_bomb_designator"
+ }
+}

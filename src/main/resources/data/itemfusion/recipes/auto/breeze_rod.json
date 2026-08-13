@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:feather"
+  }
+ ],
+ "result": {
+  "item": "mace_port:breeze_rod"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:coal"
+  },
+  {
+   "item": "minecraft:dropper"
+  }
+ ],
+ "result": {
+  "item": "lbu2:ninja_lucky_block"
+ }
+}

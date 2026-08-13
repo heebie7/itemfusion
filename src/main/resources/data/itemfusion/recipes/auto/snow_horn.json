@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:powder_snow_bucket"
+  },
+  {
+   "item": "minecraft:sweet_berries"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:snow_horn"
+ }
+}

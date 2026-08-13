@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:melon_slice"
+  },
+  {
+   "item": "minecraft:dropper"
+  }
+ ],
+ "result": {
+  "item": "lbu2:melon_lucky_block"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:amethyst_shard"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:axolotl_hat_helmet"
+ }
+}

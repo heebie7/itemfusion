@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:nether_brick"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:nether_brick_snowball_2"
+ }
+}

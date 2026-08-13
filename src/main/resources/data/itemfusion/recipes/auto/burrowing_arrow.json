@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "minecraft:coal"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:burrowing_arrow"
+ }
+}

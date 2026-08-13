@@ -6,6 +6,24 @@ import gzip
 import struct
 
 
+class TypedDict(dict):
+    """Compound tag that remembers each key's NBT tag id (needed to write SNBT)."""
+    __slots__ = ('types',)
+
+    def __init__(self, *a, **kw):
+        super().__init__(*a, **kw)
+        self.types = {}
+
+
+class TypedList(list):
+    """List tag that remembers its element tag id."""
+    __slots__ = ('item_type',)
+
+    def __init__(self, *a, **kw):
+        super().__init__(*a, **kw)
+        self.item_type = 0
+
+
 def _read_string(buf, pos):
     (n,) = struct.unpack_from('>H', buf, pos)
     pos += 2
@@ -35,13 +53,14 @@ def _read_payload(buf, pos, tag):
         item_tag = buf[pos]
         (n,) = struct.unpack_from('>i', buf, pos + 1)
         pos += 5
-        out = []
+        out = TypedList()
+        out.item_type = item_tag
         for _ in range(n):
             val, pos = _read_payload(buf, pos, item_tag)
             out.append(val)
         return out, pos
     if tag == 10:
-        out = {}
+        out = TypedDict()
         while True:
             t = buf[pos]
             pos += 1
@@ -50,6 +69,7 @@ def _read_payload(buf, pos, tag):
             name, pos = _read_string(buf, pos)
             val, pos = _read_payload(buf, pos, t)
             out[name] = val
+            out.types[name] = t
     if tag == 11:
         (n,) = struct.unpack_from('>i', buf, pos)
         pos += 4
@@ -61,6 +81,38 @@ def _read_payload(buf, pos, tag):
         vals = list(struct.unpack_from(f'>{n}q', buf, pos))
         return vals, pos + 8 * n
     raise ValueError(f'unknown tag {tag} at {pos}')
+
+
+_SNBT_SUFFIX = {1: 'b', 2: 's', 3: '', 4: 'L', 5: 'f', 6: 'd'}
+
+
+def _snbt_string(s):
+    return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
+
+
+def to_snbt(value, tag_type=None):
+    """Serialize a parsed NBT value back to SNBT (the string form Minecraft reads).
+
+    tag_type comes from TypedDict.types / TypedList.item_type — without it,
+    numbers lose their byte/short/long/float distinction and the game rejects
+    or misreads the tag.
+    """
+    if isinstance(value, TypedDict) or isinstance(value, dict):
+        types = getattr(value, 'types', {})
+        inner = ','.join(f'{k}:{to_snbt(v, types.get(k))}' for k, v in value.items())
+        return '{' + inner + '}'
+    if isinstance(value, TypedList) or isinstance(value, list):
+        item_type = getattr(value, 'item_type', None)
+        return '[' + ','.join(to_snbt(v, item_type) for v in value) + ']'
+    if isinstance(value, bytes):
+        return '[B;' + ','.join(f'{b}b' for b in value) + ']'
+    if isinstance(value, str):
+        return _snbt_string(value)
+    if isinstance(value, float):
+        return f'{value}{_SNBT_SUFFIX.get(tag_type, "d")}'
+    if isinstance(value, int):
+        return f'{value}{_SNBT_SUFFIX.get(tag_type, "")}'
+    return _snbt_string(value)
 
 
 def load_nbt(path):

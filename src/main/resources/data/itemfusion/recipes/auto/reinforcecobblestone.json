@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:flint"
+  },
+  {
+   "item": "minecraft:cobblestone"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:reinforcecobblestone"
+ }
+}

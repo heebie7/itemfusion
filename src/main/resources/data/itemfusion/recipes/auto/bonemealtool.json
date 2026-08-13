@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:leather"
+  },
+  {
+   "item": "minecraft:bone_block"
+  }
+ ],
+ "result": {
+  "item": "supertools:bonemealtool"
+ }
+}

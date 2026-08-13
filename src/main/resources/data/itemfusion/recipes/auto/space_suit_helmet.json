@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:leather_helmet"
+  },
+  {
+   "item": "minecraft:glass_pane"
+  }
+ ],
+ "result": {
+  "item": "selfexpression:space_suit_helmet"
+ }
+}

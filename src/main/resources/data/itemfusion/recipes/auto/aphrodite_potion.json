@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:glass_bottle"
+  },
+  {
+   "item": "minecraft:wheat_seeds"
+  }
+ ],
+ "result": {
+  "item": "reliquary:aphrodite_potion"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone"
+  },
+  {
+   "item": "minecraft:dropper"
+  }
+ ],
+ "result": {
+  "item": "lbu2:redstone_lucky_block"
+ }
+}

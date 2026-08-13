@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:hopper"
+  },
+  {
+   "item": "minecraft:shield"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:1b,GunId:\"tacz:db_long\",GunFireMode:\"SEMI\",GunCurrentAmmoCount:2}"
+ }
+}

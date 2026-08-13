@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:book"
+  },
+  {
+   "item": "minecraft:crying_obsidian"
+  }
+ ],
+ "result": {
+  "item": "reliquary:alkahestry_tome",
+  "nbt": "{Damage:1001}"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:end_stone"
+  },
+  {
+   "item": "minecraft:dark_prismarine"
+  }
+ ],
+ "result": {
+  "item": "minecraft:end_portal_frame"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_boots"
+   },
+   {
+    "item": "minecraft:golden_boots"
+   },
+   {
+    "item": "minecraft:iron_boots"
+   }
+  ],
+  {
+   "item": "minecraft:amethyst_shard"
+  }
+ ],
+ "result": {
+  "item": "amethyst_tools:amethyst_boots"
+ }
+}

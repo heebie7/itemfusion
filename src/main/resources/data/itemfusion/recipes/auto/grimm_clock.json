@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:spider_eye"
+  },
+  {
+   "item": "minecraft:clock"
+  }
+ ],
+ "result": {
+  "item": "lbu2:grimm_clock"
+ }
+}

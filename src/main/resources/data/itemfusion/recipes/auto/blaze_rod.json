@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:blaze_rod"
+  },
+  {
+   "item": "minecraft:fire_charge"
+  }
+ ],
+ "result": {
+  "item": "minecraft:blaze_rod",
+  "nbt": "{Enchantments:[{lvl:5s,id:\"minecraft:fire_aspect\"}]}"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:piston"
+  },
+  {
+   "item": "minecraft:slime_ball"
+  }
+ ],
+ "result": {
+  "item": "minecraft:slime_ball",
+  "nbt": "{Enchantments:[{lvl:5s,id:\"minecraft:knockback\"}]}"
+ }
+}

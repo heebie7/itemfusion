@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_chestplate"
+   },
+   {
+    "item": "minecraft:golden_chestplate"
+   },
+   {
+    "item": "minecraft:iron_chestplate"
+   }
+  ],
+  {
+   "item": "minecraft:shulker_shell"
+  }
+ ],
+ "result": {
+  "item": "lbu2:shulker_armor_chestplate"
+ }
+}

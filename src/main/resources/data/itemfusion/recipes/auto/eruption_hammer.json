@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_pickaxe"
+  },
+  {
+   "item": "minecraft:fire_charge"
+  }
+ ],
+ "result": {
+  "item": "lbu2:eruption_hammer"
+ }
+}

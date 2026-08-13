@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:potion"
+  },
+  {
+   "item": "minecraft:melon_slice"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:melon_soda"
+ }
+}

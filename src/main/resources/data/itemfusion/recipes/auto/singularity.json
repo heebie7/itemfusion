@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crying_obsidian"
+  },
+  {
+   "item": "minecraft:dragon_head"
+  }
+ ],
+ "result": {
+  "item": "lbu2:singularity"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:jack_o_lantern"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:jack_o_lantern_catapult"
+ }
+}

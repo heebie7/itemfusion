@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:beetroot"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:vesper_stew"
+ }
+}

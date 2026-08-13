@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_pickaxe"
+  },
+  {
+   "item": "minecraft:torch"
+  }
+ ],
+ "result": {
+  "item": "weird_equipment:netherite_torch_pickaxe"
+ }
+}

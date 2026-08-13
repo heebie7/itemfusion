@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:glass"
+  }
+ ],
+ "result": {
+  "item": "lbu2:blue_gem"
+ }
+}

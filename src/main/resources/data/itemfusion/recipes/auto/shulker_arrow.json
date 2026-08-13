@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "minecraft:end_stone"
+  }
+ ],
+ "result": {
+  "item": "archers_paradox:shulker_arrow",
+  "count": 3
+ }
+}

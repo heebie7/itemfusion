@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:repeater"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:1b,GunId:\"tacz:b93r\",GunFireMode:\"BURST\",GunCurrentAmmoCount:20}"
+ }
+}

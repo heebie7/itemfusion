@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:dirt"
+  },
+  {
+   "item": "minecraft:sand"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:grass_trap"
+ }
+}

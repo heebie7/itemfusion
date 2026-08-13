@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:end_stone"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:end_stone_snowball_2"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:glow_ink_sac"
+  }
+ ],
+ "result": {
+  "item": "lrtactical:throwable",
+  "nbt": "{ThrowableId:\"lrtactical:flash_grenade\"}"
+ }
+}

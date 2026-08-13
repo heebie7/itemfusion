@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:blaze_rod"
+  },
+  {
+   "item": "minecraft:netherite_scrap"
+  }
+ ],
+ "result": {
+  "item": "crownsmp:magma_club"
+ }
+}

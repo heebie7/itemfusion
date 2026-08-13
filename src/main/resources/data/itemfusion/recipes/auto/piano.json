@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:note_block"
+  },
+  {
+   "item": "minecraft:bone"
+  }
+ ],
+ "result": {
+  "item": "immersive_melodies:piano"
+ }
+}

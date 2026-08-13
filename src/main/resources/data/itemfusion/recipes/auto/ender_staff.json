@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:ender_eye"
+  }
+ ],
+ "result": {
+  "item": "reliquary:ender_staff",
+  "nbt": "{count:0,enabled:0b}"
+ }
+}

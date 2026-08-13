@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_leggings"
+   },
+   {
+    "item": "minecraft:golden_leggings"
+   },
+   {
+    "item": "minecraft:iron_leggings"
+   }
+  ],
+  {
+   "item": "minecraft:prismarine_crystals"
+  }
+ ],
+ "result": {
+  "item": "lbu2:cyber_armor_leggings"
+ }
+}

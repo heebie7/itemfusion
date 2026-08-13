@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone_torch"
+  },
+  {
+   "item": "minecraft:tnt"
+  }
+ ],
+ "result": {
+  "item": "big_explosives:two_fiddy_button"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:rotten_flesh"
+  },
+  {
+   "item": "minecraft:birch_door"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:birch_fake_door"
+ }
+}

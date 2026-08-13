@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:rabbit"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:vallumraptor_egg"
+ }
+}

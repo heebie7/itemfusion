@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:hopper"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:0b,GunId:\"daffas_arsenal:uji\",display:{Name:\"{\\\"italic\\\":false,\\\"translate\\\":\\\"daffas_arsenal.gun.uji\\\"}\"},GunFireMode:\"BURST\",GunCurrentAmmoCount:60}"
+ }
+}

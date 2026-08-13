@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:magma_cream"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:magma_jelly"
+ }
+}

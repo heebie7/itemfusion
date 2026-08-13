@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_boots"
+   },
+   {
+    "item": "minecraft:golden_boots"
+   },
+   {
+    "item": "minecraft:iron_boots"
+   }
+  ],
+  {
+   "item": "minecraft:popped_chorus_fruit"
+  }
+ ],
+ "result": {
+  "item": "lbu2:error_armor_boots"
+ }
+}

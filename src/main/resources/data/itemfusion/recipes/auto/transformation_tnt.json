@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:target"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:transformation_tnt"
+ }
+}

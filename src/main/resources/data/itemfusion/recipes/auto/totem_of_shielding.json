@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_ingot"
+  },
+  {
+   "item": "minecraft:shield"
+  }
+ ],
+ "result": {
+  "item": "lbu2:totem_of_shielding"
+ }
+}

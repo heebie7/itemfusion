@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_boots"
+   },
+   {
+    "item": "minecraft:golden_boots"
+   },
+   {
+    "item": "minecraft:iron_boots"
+   }
+  ],
+  {
+   "item": "minecraft:phantom_membrane"
+  }
+ ],
+ "result": {
+  "item": "lbu2:phantom_armor_boots"
+ }
+}

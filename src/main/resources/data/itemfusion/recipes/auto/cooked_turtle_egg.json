@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:coal"
+  },
+  {
+   "item": "minecraft:turtle_egg"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:cooked_turtle_egg"
+ }
+}

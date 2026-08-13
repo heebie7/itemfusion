@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:leather_helmet"
+  },
+  {
+   "item": "minecraft:orange_dye"
+  }
+ ],
+ "result": {
+  "item": "selfexpression:frogs_cap_helmet"
+ }
+}

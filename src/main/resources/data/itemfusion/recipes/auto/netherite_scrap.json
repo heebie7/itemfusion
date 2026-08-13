@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:obsidian"
+  },
+  {
+   "item": "minecraft:copper_ingot"
+  }
+ ],
+ "result": {
+  "item": "minecraft:netherite_scrap"
+ }
+}

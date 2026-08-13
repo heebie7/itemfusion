@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_helmet"
+  },
+  {
+   "item": "minecraft:gold_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:golden_gladiator_helmet"
+ }
+}

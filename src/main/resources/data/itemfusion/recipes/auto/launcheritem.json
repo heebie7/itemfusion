@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:piston"
+  },
+  {
+   "item": "minecraft:slime_block"
+  }
+ ],
+ "result": {
+  "item": "grapplemod:launcheritem"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:emerald"
+  }
+ ],
+ "result": {
+  "item": "power_coils:regeneration_coil"
+ }
+}

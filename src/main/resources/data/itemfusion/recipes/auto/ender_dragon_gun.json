@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:dragon_breath"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:ender_dragon_gun"
+ }
+}

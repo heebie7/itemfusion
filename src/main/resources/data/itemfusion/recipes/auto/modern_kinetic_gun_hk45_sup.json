@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:hopper"
+  },
+  {
+   "item": "minecraft:hopper_minecart"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:0b,GunId:\"daffas_arsenal:hk45_sup\",display:{Name:\"{\\\"italic\\\":false,\\\"translate\\\":\\\"daffas_arsenal.gun.hk45_sup\\\"}\"},GunFireMode:\"SEMI\",GunCurrentAmmoCount:17}"
+ }
+}

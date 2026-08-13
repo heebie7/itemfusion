@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:lava_bucket"
+  },
+  {
+   "item": "minecraft:lava_bucket"
+  }
+ ],
+ "result": {
+  "item": "weird_equipment:large_lava_bucket"
+ }
+}

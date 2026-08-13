@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:potion"
+  },
+  {
+   "item": "minecraft:sea_pickle"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:sea_pickle_soda"
+ }
+}

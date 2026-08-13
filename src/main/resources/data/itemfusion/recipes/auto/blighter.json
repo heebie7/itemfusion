@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stone_sword"
+  },
+  {
+   "item": "minecraft:wither_rose"
+  }
+ ],
+ "result": {
+  "item": "spellsword:blighter"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:barrel"
+  },
+  {
+   "item": "minecraft:iron_door"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:safe_box"
+ }
+}

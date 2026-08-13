@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:pufferfish"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:pufferfish_hat_helmet"
+ }
+}

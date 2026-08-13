@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:heavy_weighted_pressure_plate"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:1b,GunId:\"tacz:ump45\",GunFireMode:\"AUTO\",GunCurrentAmmoCount:25}"
+ }
+}

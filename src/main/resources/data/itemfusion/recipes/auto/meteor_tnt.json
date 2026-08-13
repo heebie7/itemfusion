@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:fire_charge"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:meteor_tnt"
+ }
+}

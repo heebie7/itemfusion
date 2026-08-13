@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bone"
+  },
+  {
+   "item": "minecraft:egg"
+  }
+ ],
+ "result": {
+  "item": "mutantmonsters:mutant_skeleton_spawn_egg"
+ }
+}

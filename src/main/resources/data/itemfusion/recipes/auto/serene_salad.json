@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:vine"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:serene_salad"
+ }
+}

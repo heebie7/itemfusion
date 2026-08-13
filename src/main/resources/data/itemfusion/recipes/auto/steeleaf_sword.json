@@ -1,0 +1,49 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_sword"
+   },
+   {
+    "item": "minecraft:stone_sword"
+   },
+   {
+    "item": "minecraft:golden_sword"
+   },
+   {
+    "item": "minecraft:iron_sword"
+   }
+  ],
+  [
+   {
+    "item": "minecraft:oak_leaves"
+   },
+   {
+    "item": "minecraft:spruce_leaves"
+   },
+   {
+    "item": "minecraft:birch_leaves"
+   },
+   {
+    "item": "minecraft:jungle_leaves"
+   },
+   {
+    "item": "minecraft:acacia_leaves"
+   },
+   {
+    "item": "minecraft:dark_oak_leaves"
+   },
+   {
+    "item": "minecraft:mangrove_leaves"
+   },
+   {
+    "item": "minecraft:cherry_leaves"
+   }
+  ]
+ ],
+ "result": {
+  "item": "twilightforest:steeleaf_sword",
+  "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:looting\"}]}"
+ }
+}

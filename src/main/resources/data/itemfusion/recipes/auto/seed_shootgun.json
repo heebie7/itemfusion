@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:wheat_seeds"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:seed_shootgun"
+ }
+}

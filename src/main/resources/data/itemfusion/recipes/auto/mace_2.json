@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_block"
+  },
+  {
+   "item": "minecraft:enchanting_table"
+  }
+ ],
+ "result": {
+  "item": "mace_port:mace",
+  "nbt": "{Enchantments:[{lvl:1s,id:\"minecraft:aqua_affinity\"},{lvl:5s,id:\"minecraft:bane_of_arthropods\"},{lvl:4s,id:\"minecraft:blast_protection\"},{lvl:1s,id:\"minecraft:channeling\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:5s,id:\"minecraft:efficiency\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:2s,id:\"minecraft:fire_aspect\"},{lvl:4s,id:\"minecraft:fire_protection\"},{lvl:1s,id:\"minecraft:flame\"},{lvl:3s,id:\"minecraft:fortune\"},{lvl:2s,id:\"minecraft:frost_walker\"},{lvl:5s,id:\"minecraft:impaling\"},{lvl:1s,id:\"minecraft:infinity\"},{lvl:2s,id:\"minecraft:knockback\"},{lvl:3s,id:\"minecraft:looting\"},{lvl:3s,id:\"minecraft:luck_of_the_sea\"},{lvl:3s,id:\"minecraft:lunge\"},{lvl:3s,id:\"minecraft:lure\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:1s,id:\"minecraft:multishot\"},{lvl:4s,id:\"minecraft:piercing\"},{lvl:5s,id:\"minecraft:power\"},{lvl:4s,id:\"minecraft:projectile_protection\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:punch\"},{lvl:3s,id:\"minecraft:quick_charge\"},{lvl:3s,id:\"minecraft:respiration\"},{lvl:3s,id:\"minecraft:riptide\"},{lvl:5s,id:\"minecraft:sharpness\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:5s,id:\"minecraft:smite\"},{lvl:3s,id:\"minecraft:soul_speed\"},{lvl:3s,id:\"minecraft:sweeping\"},{lvl:3s,id:\"minecraft:swift_sneak\"},{lvl:3s,id:\"minecraft:thorns\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:4s,id:\"mace_port:breach\"},{lvl:5s,id:\"mace_port:density\"},{lvl:1s,id:\"mace_port:wind_burst\"}]}"
+ }
+}

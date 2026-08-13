@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cauldron"
+  },
+  {
+   "item": "minecraft:raw_iron"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:0b,GunId:\"daffas_arsenal:spasi15\",display:{Name:\"{\\\"italic\\\":false,\\\"translate\\\":\\\"daffas_arsenal.gun.spasi15\\\"}\"},GunFireMode:\"SEMI\",GunCurrentAmmoCount:5}"
+ }
+}

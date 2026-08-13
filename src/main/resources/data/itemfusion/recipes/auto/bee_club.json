@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:honeycomb"
+  },
+  {
+   "item": "minecraft:honeycomb_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:bee_club"
+ }
+}

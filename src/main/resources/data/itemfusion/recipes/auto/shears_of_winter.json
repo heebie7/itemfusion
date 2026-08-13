@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:shears"
+  },
+  {
+   "item": "minecraft:snowball"
+  }
+ ],
+ "result": {
+  "item": "reliquary:shears_of_winter"
+ }
+}

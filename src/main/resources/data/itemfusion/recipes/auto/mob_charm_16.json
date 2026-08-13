@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:chain"
+  },
+  {
+   "item": "minecraft:sculk_sensor"
+  }
+ ],
+ "result": {
+  "item": "reliquary:mob_charm",
+  "nbt": "{entity:\"minecraft:warden\"}"
+ }
+}

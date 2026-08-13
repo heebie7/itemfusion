@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:fishing_rod"
+  },
+  {
+   "item": "minecraft:redstone_torch"
+  }
+ ],
+ "result": {
+  "item": "grapplemod:grapplinghook",
+  "nbt": "{custom:{motor:1b,throwspeed:3.5d,playermovementmult:2,maxlen:60}}"
+ }
+}

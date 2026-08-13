@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:sculk_catalyst"
+  }
+ ],
+ "result": {
+  "item": "minecraft:warden_spawn_egg"
+ }
+}

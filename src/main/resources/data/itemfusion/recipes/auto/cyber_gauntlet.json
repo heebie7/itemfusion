@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:prismarine_bricks"
+  },
+  {
+   "item": "minecraft:prismarine_crystals"
+  }
+ ],
+ "result": {
+  "item": "lbu2:cyber_gauntlet"
+ }
+}

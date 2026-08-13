@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:red_mushroom"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:minoshroom_boss_spawner"
+ }
+}

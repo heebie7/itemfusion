@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_boots"
+   },
+   {
+    "item": "minecraft:golden_boots"
+   },
+   {
+    "item": "minecraft:iron_boots"
+   }
+  ],
+  {
+   "item": "minecraft:slime_ball"
+  }
+ ],
+ "result": {
+  "item": "immersive_armors:slime_boots"
+ }
+}

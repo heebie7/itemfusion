@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:totem_of_undying"
+  },
+  {
+   "item": "minecraft:honey_bottle"
+  }
+ ],
+ "result": {
+  "item": "moretotems:stinging_totem_of_undying"
+ }
+}

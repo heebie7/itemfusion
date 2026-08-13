@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:string"
+  },
+  {
+   "item": "minecraft:wheat"
+  }
+ ],
+ "result": {
+  "item": "selfexpression:straw_hat_helmet"
+ }
+}

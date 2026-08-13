@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:glass_bottle"
+  },
+  {
+   "item": "minecraft:fire_charge"
+  }
+ ],
+ "result": {
+  "item": "lrtactical:throwable",
+  "nbt": "{ThrowableId:\"lrtactical:molotov\"}"
+ }
+}

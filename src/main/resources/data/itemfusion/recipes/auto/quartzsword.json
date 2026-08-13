@@ -1,0 +1,25 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_sword"
+   },
+   {
+    "item": "minecraft:stone_sword"
+   },
+   {
+    "item": "minecraft:golden_sword"
+   },
+   {
+    "item": "minecraft:iron_sword"
+   }
+  ],
+  {
+   "item": "minecraft:quartz"
+  }
+ ],
+ "result": {
+  "item": "supertools:quartzsword"
+ }
+}

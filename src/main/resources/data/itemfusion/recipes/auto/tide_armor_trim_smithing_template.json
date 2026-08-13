@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:prismarine"
+  },
+  {
+   "item": "minecraft:water_bucket"
+  }
+ ],
+ "result": {
+  "item": "minecraft:tide_armor_trim_smithing_template"
+ }
+}

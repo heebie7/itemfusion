@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_sword"
+  },
+  {
+   "item": "minecraft:iron_hoe"
+  }
+ ],
+ "result": {
+  "item": "lrtactical:melee",
+  "nbt": "{MeleeWeaponId:\"lrtactical:karambit\"}"
+ }
+}

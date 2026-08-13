@@ -1,0 +1,37 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:rotten_flesh"
+  },
+  [
+   {
+    "item": "minecraft:oak_door"
+   },
+   {
+    "item": "minecraft:spruce_door"
+   },
+   {
+    "item": "minecraft:birch_door"
+   },
+   {
+    "item": "minecraft:jungle_door"
+   },
+   {
+    "item": "minecraft:acacia_door"
+   },
+   {
+    "item": "minecraft:dark_oak_door"
+   },
+   {
+    "item": "minecraft:mangrove_door"
+   },
+   {
+    "item": "minecraft:cherry_door"
+   }
+  ]
+ ],
+ "result": {
+  "item": "doritrollcraft:strangeoakdoor"
+ }
+}

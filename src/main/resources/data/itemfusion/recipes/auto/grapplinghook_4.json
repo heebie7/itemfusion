@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:fishing_rod"
+  },
+  {
+   "item": "minecraft:gunpowder"
+  }
+ ],
+ "result": {
+  "item": "grapplemod:grapplinghook",
+  "nbt": "{custom:{throwspeed:3.5d,rocket:1b,maxlen:60}}"
+ }
+}

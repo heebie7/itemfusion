@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:experience_bottle"
+  },
+  {
+   "item": "minecraft:cookie"
+  }
+ ],
+ "result": {
+  "item": "lbu2:rainbow_cookie"
+ }
+}

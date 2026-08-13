@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:cocoa_beans"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:chocolate_egg"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:ochre_froglight"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:super_sunstorm_tnt"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:dirt"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:dirt_mine"
+ }
+}

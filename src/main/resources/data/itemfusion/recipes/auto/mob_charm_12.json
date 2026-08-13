@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:chain"
+  },
+  {
+   "item": "minecraft:golden_axe"
+  }
+ ],
+ "result": {
+  "item": "reliquary:mob_charm",
+  "nbt": "{entity:\"minecraft:piglin_brute\"}"
+ }
+}

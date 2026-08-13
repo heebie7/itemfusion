@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:warped_fungus"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:fungus_stew"
+ }
+}

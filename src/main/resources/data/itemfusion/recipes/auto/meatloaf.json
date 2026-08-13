@@ -1,0 +1,28 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bread"
+  },
+  [
+   {
+    "item": "minecraft:beef"
+   },
+   {
+    "item": "minecraft:porkchop"
+   },
+   {
+    "item": "minecraft:chicken"
+   },
+   {
+    "item": "minecraft:mutton"
+   },
+   {
+    "item": "minecraft:rabbit"
+   }
+  ]
+ ],
+ "result": {
+  "item": "vanillacookbook:meatloaf"
+ }
+}

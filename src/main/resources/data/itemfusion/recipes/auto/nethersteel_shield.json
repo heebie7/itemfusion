@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:shield"
+  },
+  {
+   "item": "minecraft:blaze_rod"
+  }
+ ],
+ "result": {
+  "item": "blazegear:nethersteel_shield"
+ }
+}

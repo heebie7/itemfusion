@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:blaze_powder"
+  }
+ ],
+ "result": {
+  "item": "lbu2:the_heart_of_winter"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:hopper"
+  },
+  {
+   "item": "minecraft:netherite_scrap"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:1b,GunId:\"tacz:fn_evolys\",GunFireMode:\"AUTO\",GunCurrentAmmoCount:75}"
+ }
+}

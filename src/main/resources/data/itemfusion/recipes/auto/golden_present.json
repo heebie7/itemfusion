@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gold_ingot"
+  },
+  {
+   "item": "minecraft:chest"
+  }
+ ],
+ "result": {
+  "item": "lbu2:golden_present"
+ }
+}

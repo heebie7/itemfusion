@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_hoe"
+  },
+  {
+   "item": "minecraft:enchanting_table"
+  }
+ ],
+ "result": {
+  "item": "lbu2:wave_scythe"
+ }
+}

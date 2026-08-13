@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:snowball"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:penguin_spawn_egg"
+ }
+}

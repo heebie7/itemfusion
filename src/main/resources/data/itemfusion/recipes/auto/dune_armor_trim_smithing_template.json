@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:sandstone"
+  },
+  {
+   "item": "minecraft:sand"
+  }
+ ],
+ "result": {
+  "item": "minecraft:dune_armor_trim_smithing_template"
+ }
+}

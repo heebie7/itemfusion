@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gold_ingot"
+  },
+  {
+   "item": "minecraft:blue_ice"
+  }
+ ],
+ "result": {
+  "item": "spellsword:frostbite"
+ }
+}

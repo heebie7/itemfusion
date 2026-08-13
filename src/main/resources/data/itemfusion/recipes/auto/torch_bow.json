@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:torch"
+  }
+ ],
+ "result": {
+  "item": "weird_equipment:torch_bow"
+ }
+}

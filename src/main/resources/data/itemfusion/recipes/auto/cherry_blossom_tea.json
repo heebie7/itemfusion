@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:glass_bottle"
+  },
+  {
+   "item": "minecraft:cherry_leaves"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:cherry_blossom_tea"
+ }
+}

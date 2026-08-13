@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:netherrack"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:netherrack_mine"
+ }
+}

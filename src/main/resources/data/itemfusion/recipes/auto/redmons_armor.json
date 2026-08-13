@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:piston"
+  },
+  {
+   "item": "minecraft:redstone_block"
+  }
+ ],
+ "result": {
+  "item": "armored_redstone:redmons_armor"
+ }
+}

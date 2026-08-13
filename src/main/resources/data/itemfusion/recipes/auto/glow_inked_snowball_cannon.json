@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:glow_ink_sac"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:glow_inked_snowball_cannon"
+ }
+}

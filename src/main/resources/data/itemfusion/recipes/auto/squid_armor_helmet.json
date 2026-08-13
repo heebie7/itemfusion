@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_helmet"
+   },
+   {
+    "item": "minecraft:golden_helmet"
+   },
+   {
+    "item": "minecraft:iron_helmet"
+   }
+  ],
+  {
+   "item": "minecraft:ink_sac"
+  }
+ ],
+ "result": {
+  "item": "lbu2:squid_armor_helmet"
+ }
+}

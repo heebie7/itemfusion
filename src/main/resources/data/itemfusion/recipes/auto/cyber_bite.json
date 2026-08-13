@@ -1,0 +1,25 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_hoe"
+   },
+   {
+    "item": "minecraft:stone_hoe"
+   },
+   {
+    "item": "minecraft:golden_hoe"
+   },
+   {
+    "item": "minecraft:iron_hoe"
+   }
+  ],
+  {
+   "item": "minecraft:prismarine_crystals"
+  }
+ ],
+ "result": {
+  "item": "lbu2:cyber_bite"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:terracotta"
+  },
+  {
+   "item": "minecraft:ladder"
+  }
+ ],
+ "result": {
+  "item": "minecraft:raiser_armor_trim_smithing_template"
+ }
+}

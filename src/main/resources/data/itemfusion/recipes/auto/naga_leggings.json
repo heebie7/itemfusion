@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_leggings"
+  },
+  {
+   "item": "minecraft:scute"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:naga_leggings",
+  "nbt": "{Enchantments:[{lvl:3s,id:\"minecraft:protection\"}]}"
+ }
+}

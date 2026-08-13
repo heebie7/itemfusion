@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:amethyst_shard"
+  },
+  {
+   "item": "minecraft:diamond_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:skyblade"
+ }
+}

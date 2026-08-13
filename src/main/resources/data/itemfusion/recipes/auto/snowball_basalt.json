@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:cobbled_deepslate"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:snowball_basalt"
+ }
+}

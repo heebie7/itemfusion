@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:wooden_sword"
+  },
+  {
+   "item": "minecraft:stone_sword"
+  }
+ ],
+ "result": {
+  "item": "minecraft:netherite_sword",
+  "nbt": "{Enchantments:[{lvl:5s,id:\"minecraft:sharpness\"}],Damage:2031}"
+ }
+}

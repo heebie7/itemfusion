@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:sculk_sensor"
+  },
+  {
+   "item": "minecraft:milk_bucket"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:sculky_cheese"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:pumpkin"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:pumpkin_soup"
+ }
+}

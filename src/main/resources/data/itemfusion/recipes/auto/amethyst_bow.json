@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:amethyst_shard"
+  }
+ ],
+ "result": {
+  "item": "amethyst_tools:amethyst_bow"
+ }
+}

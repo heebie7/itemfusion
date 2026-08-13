@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:golden_pickaxe"
+  },
+  {
+   "item": "minecraft:raw_gold_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:encrusted_anchor"
+ }
+}

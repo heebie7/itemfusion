@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:water_bucket"
+  },
+  {
+   "item": "minecraft:fermented_spider_eye"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:bucket_f_water"
+ }
+}

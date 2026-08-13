@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:paper"
+  },
+  {
+   "item": "minecraft:bone"
+  }
+ ],
+ "result": {
+  "item": "tarotcards:death"
+ }
+}

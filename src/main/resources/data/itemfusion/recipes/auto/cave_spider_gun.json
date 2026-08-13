@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:spider_eye"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:cave_spider_gun"
+ }
+}

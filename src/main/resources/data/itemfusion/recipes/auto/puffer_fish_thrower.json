@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:pufferfish"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:puffer_fish_thrower"
+ }
+}

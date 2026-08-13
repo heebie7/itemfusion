@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:heavy_weighted_pressure_plate"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:bouncing_betty"
+ }
+}

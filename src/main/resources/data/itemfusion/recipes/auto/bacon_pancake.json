@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:wheat"
+  },
+  {
+   "item": "minecraft:porkchop"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:bacon_pancake"
+ }
+}

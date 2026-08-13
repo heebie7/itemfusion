@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone_torch"
+  },
+  {
+   "item": "minecraft:redstone_torch"
+  }
+ ],
+ "result": {
+  "item": "big_explosives:bunker_buster_designator"
+ }
+}

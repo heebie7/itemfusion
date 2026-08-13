@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:fishing_rod"
+  },
+  {
+   "item": "minecraft:fishing_rod"
+  }
+ ],
+ "result": {
+  "item": "grapplemod:grapplinghook",
+  "nbt": "{custom:{doublehook:1b,motor:1b,motorwhencrouching:1b,throwspeed:20,hookgravity:50,sneakingverticalthrowangle:25,smartdoublemotor:1b,sneakingangle:0,motormaxspeed:10,playermovementmult:2,sticky:1b,verticalthrowangle:30,reelin:0b,angle:25,maxlen:60}}"
+ }
+}

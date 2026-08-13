@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:rabbit_hide"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:bunny_hat_helmet"
+ }
+}

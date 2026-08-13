@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone"
+  },
+  {
+   "item": "minecraft:chest"
+  }
+ ],
+ "result": {
+  "item": "lbu2:redstone_present"
+ }
+}

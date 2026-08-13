@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:sand"
+  },
+  {
+   "item": "minecraft:cobweb"
+  }
+ ],
+ "result": {
+  "item": "minetraps:quicksand"
+ }
+}

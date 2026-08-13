@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:ender_eye"
+  },
+  {
+   "item": "minecraft:emerald_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:baleful_orb"
+ }
+}

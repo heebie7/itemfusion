@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:respawn_anchor"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:respawn_tnt"
+ }
+}

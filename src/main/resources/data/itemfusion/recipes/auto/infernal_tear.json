@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:fire_charge"
+  },
+  {
+   "item": "minecraft:netherrack"
+  }
+ ],
+ "result": {
+  "item": "reliquary:infernal_tear"
+ }
+}

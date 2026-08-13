@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:rail"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:track_mine"
+ }
+}

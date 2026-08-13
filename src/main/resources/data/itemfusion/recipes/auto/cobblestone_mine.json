@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:cobblestone"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:cobblestone_mine"
+ }
+}

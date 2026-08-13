@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:snowball"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:arctic_fur_block"
+ }
+}

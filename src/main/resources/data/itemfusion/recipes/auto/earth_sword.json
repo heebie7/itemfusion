@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_sword"
+  },
+  {
+   "item": "minecraft:netherite_ingot"
+  }
+ ],
+ "result": {
+  "item": "elementalswords:earth_sword"
+ }
+}

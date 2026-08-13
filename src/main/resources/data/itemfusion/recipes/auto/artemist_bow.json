@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:gold_block"
+  }
+ ],
+ "result": {
+  "item": "crownsmp:artemist_bow",
+  "nbt": "{FirstUse:1b,ProjectileDamage:6.0d,BowMaxCharge:20.0d,ProjectileSpeed:4.0d}"
+ }
+}

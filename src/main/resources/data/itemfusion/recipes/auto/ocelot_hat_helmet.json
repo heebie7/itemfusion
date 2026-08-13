@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:vine"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:ocelot_hat_helmet"
+ }
+}

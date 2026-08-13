@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bread"
+  },
+  {
+   "item": "minecraft:bread"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:breadfake"
+ }
+}

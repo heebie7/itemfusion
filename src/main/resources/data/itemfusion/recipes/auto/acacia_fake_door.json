@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:rotten_flesh"
+  },
+  {
+   "item": "minecraft:acacia_door"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:acacia_fake_door"
+ }
+}

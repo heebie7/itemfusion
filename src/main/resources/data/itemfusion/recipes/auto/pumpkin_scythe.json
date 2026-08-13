@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_hoe"
+  },
+  {
+   "item": "minecraft:carved_pumpkin"
+  }
+ ],
+ "result": {
+  "item": "lbu2:pumpkin_scythe"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:white_carpet"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:llama_hat_helmet"
+ }
+}

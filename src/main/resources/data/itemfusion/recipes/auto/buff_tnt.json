@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:diamond_sword"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:buff_tnt"
+ }
+}

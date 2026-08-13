@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:paper"
+  },
+  {
+   "item": "minecraft:golden_carrot"
+  }
+ ],
+ "result": {
+  "item": "tarotcards:temperance"
+ }
+}

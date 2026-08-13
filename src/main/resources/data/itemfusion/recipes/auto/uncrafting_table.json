@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crafting_table"
+  },
+  {
+   "item": "minecraft:crafting_table"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:uncrafting_table"
+ }
+}

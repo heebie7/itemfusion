@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:hopper"
+  },
+  {
+   "item": "minecraft:coal_block"
+  }
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:1b,GunId:\"tacz:rpk\",GunFireMode:\"AUTO\",GunCurrentAmmoCount:40}"
+ }
+}

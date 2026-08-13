@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:coal"
+  },
+  {
+   "item": "minecraft:melon_slice"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:grilled_melon"
+ }
+}

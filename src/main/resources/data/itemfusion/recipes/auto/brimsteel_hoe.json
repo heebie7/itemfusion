@@ -1,0 +1,25 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_hoe"
+   },
+   {
+    "item": "minecraft:stone_hoe"
+   },
+   {
+    "item": "minecraft:golden_hoe"
+   },
+   {
+    "item": "minecraft:iron_hoe"
+   }
+  ],
+  {
+   "item": "minecraft:blaze_powder"
+  }
+ ],
+ "result": {
+  "item": "blazegear:brimsteel_hoe"
+ }
+}

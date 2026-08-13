@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:golden_pickaxe"
+  },
+  {
+   "item": "minecraft:golden_pickaxe"
+  }
+ ],
+ "result": {
+  "item": "onlyhammersandexcavators:gold_hammer"
+ }
+}

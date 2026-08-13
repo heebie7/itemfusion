@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone_block"
+  },
+  {
+   "item": "minecraft:cookie"
+  }
+ ],
+ "result": {
+  "item": "lbu2:ruby_cookie"
+ }
+}

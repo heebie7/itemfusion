@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:sweet_berries"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:fox_hat_helmet"
+ }
+}

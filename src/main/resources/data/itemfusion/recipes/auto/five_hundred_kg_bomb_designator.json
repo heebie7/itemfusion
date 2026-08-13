@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone_torch"
+  },
+  {
+   "item": "minecraft:tnt_minecart"
+  }
+ ],
+ "result": {
+  "item": "big_explosives:five_hundred_kg_bomb_designator"
+ }
+}

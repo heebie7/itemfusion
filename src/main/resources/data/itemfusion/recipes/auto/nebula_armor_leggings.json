@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_leggings"
+  },
+  {
+   "item": "minecraft:crying_obsidian"
+  }
+ ],
+ "result": {
+  "item": "lbu2:nebula_armor_leggings"
+ }
+}

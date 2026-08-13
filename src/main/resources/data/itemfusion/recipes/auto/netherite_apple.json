@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:apple"
+  },
+  {
+   "item": "minecraft:netherite_scrap"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:netherite_apple"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:wheat"
+  },
+  {
+   "item": "minecraft:cocoa_beans"
+  }
+ ],
+ "result": {
+  "item": "rusticpancakes:chocolate_pancake"
+ }
+}

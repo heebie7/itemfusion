@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:glass_bottle"
+  },
+  {
+   "item": "minecraft:cocoa_beans"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:chocolate_milk"
+ }
+}

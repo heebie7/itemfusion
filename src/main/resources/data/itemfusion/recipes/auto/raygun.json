@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_ingot"
+  },
+  {
+   "item": "minecraft:slime_block"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:raygun",
+  "nbt": "{PrevRayZ:-16.18684874339043d,PrevRayY:70.875d,PrevRayX:-176.8513300389363d,UseTime:5,RayZ:-15.81765404016933d,RayX:-176.66545596773548d,RayY:71.875d,PrevUseTime:5}"
+ }
+}

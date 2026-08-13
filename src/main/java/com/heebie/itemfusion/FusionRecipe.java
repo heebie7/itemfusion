@@ -73,6 +73,19 @@ public class FusionRecipe implements Recipe<CraftingContainer> {
         return this.ingredients;
     }
 
+    /**
+     * How many concrete items this recipe accepts across all ingredients.
+     * Lower = more specific. Used to let a concrete recipe (golden sword +
+     * blaze rod) win over a wildcard one (any sword + blaze rod).
+     */
+    public int specificity() {
+        int n = 0;
+        for (Ingredient ingredient : this.ingredients) {
+            n += ingredient.getItems().length;
+        }
+        return n;
+    }
+
     @Override
     public ResourceLocation getId() {
         return this.id;

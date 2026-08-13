@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bone_block"
+  },
+  {
+   "item": "minecraft:prismarine_bricks"
+  }
+ ],
+ "result": {
+  "item": "lbu2:depth_maw"
+ }
+}

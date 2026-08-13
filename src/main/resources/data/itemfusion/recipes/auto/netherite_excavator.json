@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_shovel"
+  },
+  {
+   "item": "minecraft:diamond_shovel"
+  }
+ ],
+ "result": {
+  "item": "onlyhammersandexcavators:netherite_excavator"
+ }
+}

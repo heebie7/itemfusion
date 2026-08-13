@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:coal"
+  },
+  {
+   "item": "minecraft:bow"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:dreadbow"
+ }
+}

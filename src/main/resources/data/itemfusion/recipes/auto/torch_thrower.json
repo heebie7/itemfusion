@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:torch"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:torch_thrower"
+ }
+}

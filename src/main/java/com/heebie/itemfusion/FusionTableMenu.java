@@ -1,5 +1,6 @@
 package com.heebie.itemfusion;
 
+import java.util.Comparator;
 import java.util.Optional;
 import net.minecraft.network.protocol.game.ClientboundContainerSetSlotPacket;
 import net.minecraft.server.level.ServerPlayer;
@@ -54,13 +55,23 @@ public class FusionTableMenu extends AbstractContainerMenu {
         }
     }
 
+    /**
+     * All matching recipes, most specific first: a concrete recipe (golden
+     * sword + blaze rod) beats a wildcard one (any sword + blaze rod).
+     */
+    public static Optional<FusionRecipe> findBestRecipe(Level level, CraftingContainer craftSlots) {
+        return level.getRecipeManager()
+            .getRecipesFor(ModRegistry.FUSION_RECIPE_TYPE.get(), craftSlots, level)
+            .stream()
+            .min(Comparator.comparingInt(FusionRecipe::specificity));
+    }
+
     protected static void refreshResult(AbstractContainerMenu menu, Level level, Player player,
                                         CraftingContainer craftSlots, ResultContainer resultSlots) {
         if (!level.isClientSide) {
             ServerPlayer serverPlayer = (ServerPlayer) player;
             ItemStack stack = ItemStack.EMPTY;
-            Optional<FusionRecipe> optional = level.getServer().getRecipeManager()
-                .getRecipeFor(ModRegistry.FUSION_RECIPE_TYPE.get(), craftSlots, level);
+            Optional<FusionRecipe> optional = findBestRecipe(level, craftSlots);
             if (optional.isPresent()) {
                 FusionRecipe recipe = optional.get();
                 if (resultSlots.setRecipeUsed(level, serverPlayer, recipe)) {

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_shovel"
+  },
+  {
+   "item": "minecraft:iron_shovel"
+  }
+ ],
+ "result": {
+  "item": "onlyhammersandexcavators:iron_excavator"
+ }
+}

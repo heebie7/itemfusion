@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_ingot"
+  },
+  {
+   "item": "minecraft:lava_bucket"
+  }
+ ],
+ "result": {
+  "item": "lbu2:molten_iron"
+ }
+}

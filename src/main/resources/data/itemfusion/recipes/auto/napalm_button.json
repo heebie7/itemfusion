@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:redstone_torch"
+  },
+  {
+   "item": "minecraft:blaze_rod"
+  }
+ ],
+ "result": {
+  "item": "big_explosives:napalm_button"
+ }
+}

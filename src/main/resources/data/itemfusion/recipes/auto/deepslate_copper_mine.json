@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:deepslate_copper_ore"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:deepslate_copper_mine"
+ }
+}

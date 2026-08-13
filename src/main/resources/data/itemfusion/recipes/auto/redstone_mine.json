@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:redstone_ore"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:redstone_mine"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:purpur_block"
+  },
+  {
+   "item": "minecraft:shulker_shell"
+  }
+ ],
+ "result": {
+  "item": "minecraft:spire_armor_trim_smithing_template"
+ }
+}

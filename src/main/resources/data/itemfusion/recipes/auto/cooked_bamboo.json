@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:coal"
+  },
+  {
+   "item": "minecraft:bamboo"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:cooked_bamboo"
+ }
+}

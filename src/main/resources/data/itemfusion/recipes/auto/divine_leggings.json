@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_leggings"
+   },
+   {
+    "item": "minecraft:golden_leggings"
+   },
+   {
+    "item": "minecraft:iron_leggings"
+   }
+  ],
+  {
+   "item": "minecraft:golden_carrot"
+  }
+ ],
+ "result": {
+  "item": "immersive_armors:divine_leggings"
+ }
+}

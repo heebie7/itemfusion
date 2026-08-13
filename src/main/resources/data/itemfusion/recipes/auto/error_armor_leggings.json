@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_leggings"
+   },
+   {
+    "item": "minecraft:golden_leggings"
+   },
+   {
+    "item": "minecraft:iron_leggings"
+   }
+  ],
+  {
+   "item": "minecraft:popped_chorus_fruit"
+  }
+ ],
+ "result": {
+  "item": "lbu2:error_armor_leggings"
+ }
+}

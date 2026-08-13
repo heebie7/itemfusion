@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gravel"
+  },
+  {
+   "item": "minecraft:sand"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:cinder_brick"
+ }
+}

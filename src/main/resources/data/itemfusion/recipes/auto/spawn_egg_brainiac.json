@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:slime_block"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:spawn_egg_brainiac"
+ }
+}

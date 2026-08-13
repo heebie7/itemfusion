@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  {
+   "item": "minecraft:fire_charge"
+  }
+ ],
+ "result": {
+  "item": "lbu2:volcano_cannon"
+ }
+}

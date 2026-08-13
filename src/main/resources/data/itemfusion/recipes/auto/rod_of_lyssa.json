@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:fishing_rod"
+  },
+  {
+   "item": "minecraft:flint"
+  }
+ ],
+ "result": {
+  "item": "reliquary:rod_of_lyssa"
+ }
+}

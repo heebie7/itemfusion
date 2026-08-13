@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:smoker"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:smoker_mine"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:comparator"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:glitch_tnt"
+ }
+}

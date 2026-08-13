@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:tropical_fish"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:primordial_soup"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:slime_ball"
+  },
+  {
+   "item": "minecraft:chorus_fruit"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:magic_slime"
+ }
+}

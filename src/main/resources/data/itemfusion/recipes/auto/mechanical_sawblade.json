@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:blaze_rod"
+  },
+  {
+   "item": "minecraft:iron_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:mechanical_sawblade"
+ }
+}

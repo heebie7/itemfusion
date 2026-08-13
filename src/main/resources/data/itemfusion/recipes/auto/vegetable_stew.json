@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:mushroom_stew"
+  },
+  {
+   "item": "minecraft:carrot"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:vegetable_stew"
+ }
+}

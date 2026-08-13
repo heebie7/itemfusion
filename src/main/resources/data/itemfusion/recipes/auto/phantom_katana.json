@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_sword"
+  },
+  {
+   "item": "minecraft:golden_sword"
+  }
+ ],
+ "result": {
+  "item": "lbu2:phantom_katana"
+ }
+}

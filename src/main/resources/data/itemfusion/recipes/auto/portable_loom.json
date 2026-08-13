@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:loom"
+  }
+ ],
+ "result": {
+  "item": "portable_tables:portable_loom"
+ }
+}

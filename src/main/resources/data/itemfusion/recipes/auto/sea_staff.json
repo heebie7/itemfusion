@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:heart_of_the_sea"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:sea_staff"
+ }
+}

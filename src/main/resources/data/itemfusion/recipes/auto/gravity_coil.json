@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:lapis_lazuli"
+  }
+ ],
+ "result": {
+  "item": "power_coils:gravity_coil"
+ }
+}

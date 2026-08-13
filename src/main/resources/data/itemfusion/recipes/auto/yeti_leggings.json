@@ -1,0 +1,23 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_leggings"
+   },
+   {
+    "item": "minecraft:golden_leggings"
+   },
+   {
+    "item": "minecraft:iron_leggings"
+   }
+  ],
+  {
+   "item": "minecraft:blue_ice"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:yeti_leggings",
+  "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"}]}"
+ }
+}

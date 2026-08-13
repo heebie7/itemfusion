@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:egg"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:chicken_gun"
+ }
+}

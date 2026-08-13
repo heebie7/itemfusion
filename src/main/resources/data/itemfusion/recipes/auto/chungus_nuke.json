@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:rabbit_hide"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:chungus_nuke"
+ }
+}

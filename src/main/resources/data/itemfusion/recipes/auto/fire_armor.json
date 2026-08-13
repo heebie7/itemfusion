@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:piston"
+  },
+  {
+   "item": "minecraft:flint_and_steel"
+  }
+ ],
+ "result": {
+  "item": "armored_redstone:fire_armor"
+ }
+}

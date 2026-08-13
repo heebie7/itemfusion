@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:paper"
+  },
+  {
+   "item": "minecraft:emerald"
+  }
+ ],
+ "result": {
+  "item": "tarotcards:wheel_of_fortune"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:rotten_flesh"
+  },
+  {
+   "item": "minecraft:wheat"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:dinosaur_nugget"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:iron_block"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:high_explosive_tnt"
+ }
+}

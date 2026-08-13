@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:brown_mushroom"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:mushroom_snowball"
+ }
+}

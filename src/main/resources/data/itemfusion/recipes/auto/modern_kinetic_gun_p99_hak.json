@@ -1,0 +1,26 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  [
+   {
+    "item": "minecraft:wooden_sword"
+   },
+   {
+    "item": "minecraft:stone_sword"
+   },
+   {
+    "item": "minecraft:golden_sword"
+   },
+   {
+    "item": "minecraft:iron_sword"
+   }
+  ]
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:0b,GunId:\"daffas_arsenal:p99_hak\",display:{Name:\"{\\\"italic\\\":false,\\\"translate\\\":\\\"daffas_arsenal.gun.p99_hak\\\"}\"},GunFireMode:\"SEMI\",GunCurrentAmmoCount:15}"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:blaze_powder"
+  },
+  {
+   "item": "minecraft:cookie"
+  }
+ ],
+ "result": {
+  "item": "lbu2:topaz_cookie"
+ }
+}

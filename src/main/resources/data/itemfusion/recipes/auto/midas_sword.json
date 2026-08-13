@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_sword"
+  },
+  {
+   "item": "minecraft:gold_block"
+  }
+ ],
+ "result": {
+  "item": "crownsmp:midas_sword"
+ }
+}

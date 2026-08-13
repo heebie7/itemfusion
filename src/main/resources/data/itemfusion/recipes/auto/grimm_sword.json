@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_sword"
+  },
+  {
+   "item": "minecraft:rotten_flesh"
+  }
+ ],
+ "result": {
+  "item": "lbu2:grimm_sword"
+ }
+}

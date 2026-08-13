@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_sword"
+  },
+  {
+   "item": "minecraft:flint"
+  }
+ ],
+ "result": {
+  "item": "lrtactical:melee",
+  "nbt": "{MeleeWeaponId:\"lrtactical:dagger\"}"
+ }
+}

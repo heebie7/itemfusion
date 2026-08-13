@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:prismarine_crystals"
+  },
+  {
+   "item": "minecraft:iron_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:cyber_orb"
+ }
+}

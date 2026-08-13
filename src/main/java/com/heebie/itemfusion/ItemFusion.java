@@ -24,8 +24,5 @@ public class ItemFusion {
         if (event.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
             event.accept(ModRegistry.FUSION_TABLE_ITEM);
         }
-        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModRegistry.FUSION_CORE);
-        }
     }
 }

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bread"
+  },
+  {
+   "item": "minecraft:beetroot"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:beetroot_pie"
+ }
+}

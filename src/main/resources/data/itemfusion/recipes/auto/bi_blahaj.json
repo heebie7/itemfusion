@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cod"
+  },
+  {
+   "item": "minecraft:lapis_lazuli"
+  }
+ ],
+ "result": {
+  "item": "just_blahaj:bi_blahaj"
+ }
+}

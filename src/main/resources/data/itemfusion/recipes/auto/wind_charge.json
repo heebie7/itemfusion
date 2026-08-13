@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:feather"
+  }
+ ],
+ "result": {
+  "item": "mace_port:wind_charge"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:copper_block"
+  },
+  {
+   "item": "minecraft:cobblestone"
+  }
+ ],
+ "result": {
+  "item": "lbu2:orb"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:flint_and_steel"
+  },
+  {
+   "item": "minecraft:blaze_powder"
+  }
+ ],
+ "result": {
+  "item": "blazegear:flint_and_brimsteel"
+ }
+}

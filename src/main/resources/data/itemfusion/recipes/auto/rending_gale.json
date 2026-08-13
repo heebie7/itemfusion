@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:lapis_block"
+  }
+ ],
+ "result": {
+  "item": "reliquary:rending_gale"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:packed_ice"
+  }
+ ],
+ "result": {
+  "item": "power_coils:snowy_gravity_coil"
+ }
+}

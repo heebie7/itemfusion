@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bread"
+  },
+  {
+   "item": "minecraft:wheat"
+  }
+ ],
+ "result": {
+  "item": "rusticpancakes:pancakes"
+ }
+}

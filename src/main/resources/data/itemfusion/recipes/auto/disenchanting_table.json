@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:enchanting_table"
+  },
+  {
+   "item": "minecraft:lapis_lazuli"
+  }
+ ],
+ "result": {
+  "item": "disenchanting_table:disenchanting_table"
+ }
+}

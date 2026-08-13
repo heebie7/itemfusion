@@ -1,0 +1,25 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_axe"
+   },
+   {
+    "item": "minecraft:stone_axe"
+   },
+   {
+    "item": "minecraft:golden_axe"
+   },
+   {
+    "item": "minecraft:iron_axe"
+   }
+  ],
+  {
+   "item": "minecraft:coal"
+  }
+ ],
+ "result": {
+  "item": "lbu2:cursed_axe"
+ }
+}

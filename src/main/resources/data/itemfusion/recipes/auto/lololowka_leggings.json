@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:leather_leggings"
+  },
+  {
+   "item": "minecraft:light_blue_dye"
+  }
+ ],
+ "result": {
+  "item": "selfexpression:lololowka_leggings"
+ }
+}

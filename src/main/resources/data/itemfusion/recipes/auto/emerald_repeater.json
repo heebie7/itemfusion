@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:emerald"
+  }
+ ],
+ "result": {
+  "item": "lbu2:emerald_repeater"
+ }
+}

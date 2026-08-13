@@ -1,0 +1,23 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_chestplate"
+   },
+   {
+    "item": "minecraft:golden_chestplate"
+   },
+   {
+    "item": "minecraft:iron_chestplate"
+   }
+  ],
+  {
+   "item": "minecraft:blue_ice"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:yeti_chestplate",
+  "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"}]}"
+ }
+}

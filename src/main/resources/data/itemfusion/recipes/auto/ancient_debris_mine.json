@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:ancient_debris"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:ancient_debris_mine"
+ }
+}

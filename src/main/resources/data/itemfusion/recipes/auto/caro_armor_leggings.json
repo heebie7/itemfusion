@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_leggings"
+  },
+  {
+   "item": "minecraft:quartz_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:caro_armor_leggings"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:golden_apple"
+  },
+  {
+   "item": "minecraft:iron_block"
+  }
+ ],
+ "result": {
+  "item": "spellsword:lifeseeker"
+ }
+}

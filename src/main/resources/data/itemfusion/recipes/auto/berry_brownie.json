@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cocoa_beans"
+  },
+  {
+   "item": "minecraft:sweet_berries"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:berry_brownie"
+ }
+}

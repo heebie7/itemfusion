@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cobbled_deepslate"
+  },
+  {
+   "item": "minecraft:sculk_sensor"
+  }
+ ],
+ "result": {
+  "item": "minecraft:silence_armor_trim_smithing_template"
+ }
+}

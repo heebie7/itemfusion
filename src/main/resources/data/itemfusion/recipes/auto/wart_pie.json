@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bread"
+  },
+  {
+   "item": "minecraft:nether_wart"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:wart_pie"
+ }
+}

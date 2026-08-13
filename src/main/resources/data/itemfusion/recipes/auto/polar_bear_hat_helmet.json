@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:ice"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:polar_bear_hat_helmet"
+ }
+}

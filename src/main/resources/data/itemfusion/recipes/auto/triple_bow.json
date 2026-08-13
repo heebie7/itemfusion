@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:nether_wart"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:triple_bow"
+ }
+}

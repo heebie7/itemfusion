@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:lava_bucket"
+  },
+  {
+   "item": "minecraft:cobbled_deepslate"
+  }
+ ],
+ "result": {
+  "item": "lbu2:lava_orb"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:smoker"
+  }
+ ],
+ "result": {
+  "item": "portable_tables:portable_smoker",
+  "nbt": "{CookTime:0s,BurnTime:0s,Items:[],CookTimeTotal:0s,RecipesUsed:{}}"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_leggings"
+  },
+  {
+   "item": "minecraft:ender_eye"
+  }
+ ],
+ "result": {
+  "item": "lbu2:baleful_armor_leggings"
+ }
+}

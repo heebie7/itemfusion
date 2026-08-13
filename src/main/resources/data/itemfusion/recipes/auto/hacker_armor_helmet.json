@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_helmet"
+  },
+  {
+   "item": "minecraft:comparator"
+  }
+ ],
+ "result": {
+  "item": "lbu2:hacker_armor_helmet"
+ }
+}

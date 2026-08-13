@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gold_ingot"
+  },
+  {
+   "item": "minecraft:gold_nugget"
+  }
+ ],
+ "result": {
+  "item": "justenoughcrowns:goldcirclet_helmet"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_axe"
+   },
+   {
+    "item": "minecraft:stone_axe"
+   },
+   {
+    "item": "minecraft:golden_axe"
+   },
+   {
+    "item": "minecraft:iron_axe"
+   }
+  ],
+  {
+   "item": "minecraft:raw_copper"
+  }
+ ],
+ "result": {
+  "item": "lrtactical:melee",
+  "nbt": "{MeleeWeaponId:\"lrtactical:fire_axe\"}"
+ }
+}

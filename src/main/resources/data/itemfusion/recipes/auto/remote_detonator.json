@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_ingot"
+  },
+  {
+   "item": "minecraft:repeater"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:remote_detonator",
+  "nbt": "{BombTracked:1b}"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:magma_cream"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:spawn_egg_tremorzilla"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crossbow"
+  },
+  [
+   {
+    "item": "minecraft:wooden_axe"
+   },
+   {
+    "item": "minecraft:stone_axe"
+   },
+   {
+    "item": "minecraft:golden_axe"
+   },
+   {
+    "item": "minecraft:iron_axe"
+   }
+  ]
+ ],
+ "result": {
+  "item": "tacz:modern_kinetic_gun",
+  "nbt": "{HasBulletInBarrel:1b,GunId:\"tacz:qbz_191\",GunFireMode:\"AUTO\",GunCurrentAmmoCount:30}"
+ }
+}

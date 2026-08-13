@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:apple"
+  },
+  {
+   "item": "minecraft:charcoal"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:darkened_apple"
+ }
+}

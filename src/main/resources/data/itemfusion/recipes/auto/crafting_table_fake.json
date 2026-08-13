@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:crafting_table"
+  },
+  {
+   "item": "minecraft:rotten_flesh"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:crafting_table_fake"
+ }
+}

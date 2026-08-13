@@ -1,0 +1,37 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:sand"
+  },
+  [
+   {
+    "item": "minecraft:oak_pressure_plate"
+   },
+   {
+    "item": "minecraft:spruce_pressure_plate"
+   },
+   {
+    "item": "minecraft:birch_pressure_plate"
+   },
+   {
+    "item": "minecraft:jungle_pressure_plate"
+   },
+   {
+    "item": "minecraft:acacia_pressure_plate"
+   },
+   {
+    "item": "minecraft:dark_oak_pressure_plate"
+   },
+   {
+    "item": "minecraft:mangrove_pressure_plate"
+   },
+   {
+    "item": "minecraft:cherry_pressure_plate"
+   }
+  ]
+ ],
+ "result": {
+  "item": "doritrollcraft:sand_trap"
+ }
+}

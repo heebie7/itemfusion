@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_leggings"
+  },
+  {
+   "item": "minecraft:blaze_powder"
+  }
+ ],
+ "result": {
+  "item": "blazegear:nethersteel_leggings"
+ }
+}

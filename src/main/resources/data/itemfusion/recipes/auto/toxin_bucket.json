@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bucket"
+  },
+  {
+   "item": "minecraft:fermented_spider_eye"
+  }
+ ],
+ "result": {
+  "item": "minetraps:toxin_bucket"
+ }
+}

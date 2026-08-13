@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:blackstone"
+  },
+  {
+   "item": "minecraft:porkchop"
+  }
+ ],
+ "result": {
+  "item": "minecraft:snout_armor_trim_smithing_template"
+ }
+}

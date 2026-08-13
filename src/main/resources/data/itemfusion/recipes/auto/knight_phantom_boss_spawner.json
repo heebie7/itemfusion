@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_bars"
+  },
+  {
+   "item": "minecraft:phantom_membrane"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:knight_phantom_boss_spawner"
+ }
+}

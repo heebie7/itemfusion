@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:cobblestone"
+  }
+ ],
+ "result": {
+  "item": "morebows:stone_bow"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:lantern"
+  },
+  {
+   "item": "minecraft:torch"
+  }
+ ],
+ "result": {
+  "item": "reliquary:lantern_of_paranoia"
+ }
+}

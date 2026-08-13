@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:porkchop"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:pig_hat_helmet"
+ }
+}

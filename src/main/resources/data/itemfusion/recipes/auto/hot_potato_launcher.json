@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:baked_potato"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:hot_potato_launcher"
+ }
+}

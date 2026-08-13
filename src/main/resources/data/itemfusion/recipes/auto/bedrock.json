@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cobbled_deepslate"
+  },
+  {
+   "item": "minecraft:white_bed"
+  }
+ ],
+ "result": {
+  "item": "minecraft:bedrock"
+ }
+}

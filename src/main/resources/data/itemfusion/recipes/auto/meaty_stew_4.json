@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:mutton"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:meaty_stew"
+ }
+}

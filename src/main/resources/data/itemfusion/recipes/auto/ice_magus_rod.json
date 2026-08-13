@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:ice"
+  }
+ ],
+ "result": {
+  "item": "reliquary:ice_magus_rod"
+ }
+}

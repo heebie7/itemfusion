@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:iron_nugget"
+  },
+  {
+   "item": "minecraft:raw_iron"
+  }
+ ],
+ "result": {
+  "item": "reliquary:hero_medallion"
+ }
+}

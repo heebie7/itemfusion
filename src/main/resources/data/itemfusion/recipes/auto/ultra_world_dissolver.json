@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:netherite_block"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:ultra_world_dissolver"
+ }
+}

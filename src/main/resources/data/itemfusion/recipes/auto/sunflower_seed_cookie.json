@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:wheat"
+  },
+  {
+   "item": "minecraft:sunflower"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:sunflower_seed_cookie"
+ }
+}

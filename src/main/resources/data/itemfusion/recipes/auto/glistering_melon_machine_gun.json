@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:glistering_melon_slice"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:glistering_melon_machine_gun"
+ }
+}

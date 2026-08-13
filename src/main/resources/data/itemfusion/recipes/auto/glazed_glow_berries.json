@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:glow_berries"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:glazed_glow_berries"
+ }
+}

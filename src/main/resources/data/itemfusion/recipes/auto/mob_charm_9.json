@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:chain"
+  },
+  {
+   "item": "minecraft:spider_eye"
+  }
+ ],
+ "result": {
+  "item": "reliquary:mob_charm",
+  "nbt": "{entity:\"minecraft:cave_spider\"}"
+ }
+}

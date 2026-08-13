@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cod"
+  },
+  {
+   "item": "minecraft:netherrack"
+  }
+ ],
+ "result": {
+  "item": "just_blahaj:lesbian_blahaj"
+ }
+}

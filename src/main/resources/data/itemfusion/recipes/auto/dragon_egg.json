@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:dragon_head"
+  }
+ ],
+ "result": {
+  "item": "minecraft:dragon_egg"
+ }
+}

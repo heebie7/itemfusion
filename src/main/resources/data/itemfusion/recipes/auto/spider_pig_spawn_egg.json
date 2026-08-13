@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:porkchop"
+  },
+  {
+   "item": "minecraft:spider_eye"
+  }
+ ],
+ "result": {
+  "item": "mutantmonsters:spider_pig_spawn_egg"
+ }
+}

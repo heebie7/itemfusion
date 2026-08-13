@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cobbled_deepslate"
+  },
+  {
+   "item": "minecraft:sculk"
+  }
+ ],
+ "result": {
+  "item": "minecraft:ward_armor_trim_smithing_template"
+ }
+}

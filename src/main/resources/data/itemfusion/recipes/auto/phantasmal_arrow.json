@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "minecraft:phantom_membrane"
+  }
+ ],
+ "result": {
+  "item": "archers_paradox:phantasmal_arrow",
+  "count": 3
+ }
+}

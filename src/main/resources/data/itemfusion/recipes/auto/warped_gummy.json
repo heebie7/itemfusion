@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:sugar"
+  },
+  {
+   "item": "minecraft:warped_fungus"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:warped_gummy"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:pumpkin"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:pumpsicle"
+ }
+}

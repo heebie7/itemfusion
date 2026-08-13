@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:bow"
+  }
+ ],
+ "result": {
+  "item": "lbu2:autofire_crossbow"
+ }
+}

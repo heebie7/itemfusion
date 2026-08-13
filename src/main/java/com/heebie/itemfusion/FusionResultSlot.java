@@ -64,8 +64,19 @@ public class FusionResultSlot extends Slot {
     public void onTake(Player player, ItemStack stack) {
         this.checkTakeAchievements(stack);
         ForgeHooks.setCraftingPlayer(player);
-        NonNullList<ItemStack> remaining = player.level().getRecipeManager()
-            .getRemainingItemsFor(ModRegistry.FUSION_RECIPE_TYPE.get(), this.craftSlots, player.level());
+        // Same most-specific-recipe choice as refreshResult, so the remainders
+        // come from the recipe that actually produced the result.
+        NonNullList<ItemStack> remaining = FusionTableMenu
+            .findBestRecipe(player.level(), this.craftSlots)
+            .map(recipe -> recipe.getRemainingItems(this.craftSlots))
+            .orElseGet(() -> {
+                NonNullList<ItemStack> copy =
+                    NonNullList.withSize(this.craftSlots.getContainerSize(), ItemStack.EMPTY);
+                for (int i = 0; i < copy.size(); ++i) {
+                    copy.set(i, this.craftSlots.getItem(i));
+                }
+                return copy;
+            });
         ForgeHooks.setCraftingPlayer(null);
         for (int i = 0; i < remaining.size(); ++i) {
             ItemStack inSlot = this.craftSlots.getItem(i);

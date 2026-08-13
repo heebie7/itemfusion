@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:vine"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:snowball_with_prismarine_shards"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_helmet"
+   },
+   {
+    "item": "minecraft:golden_helmet"
+   },
+   {
+    "item": "minecraft:iron_helmet"
+   }
+  ],
+  {
+   "item": "minecraft:blue_ice"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:yeti_helmet",
+  "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"}]}"
+ }
+}

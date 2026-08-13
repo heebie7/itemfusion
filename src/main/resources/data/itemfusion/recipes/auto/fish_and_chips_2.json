@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:potato"
+  },
+  {
+   "item": "minecraft:salmon"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:fish_and_chips"
+ }
+}

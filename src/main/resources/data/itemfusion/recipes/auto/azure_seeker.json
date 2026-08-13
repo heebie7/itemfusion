@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:lapis_lazuli"
+  }
+ ],
+ "result": {
+  "item": "lbu2:azure_seeker"
+ }
+}

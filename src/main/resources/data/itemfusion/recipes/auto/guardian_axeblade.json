@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_axe"
+  },
+  {
+   "item": "minecraft:prismarine_shard"
+  }
+ ],
+ "result": {
+  "item": "lbu2:guardian_axeblade"
+ }
+}

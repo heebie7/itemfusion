@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_helmet"
+  },
+  {
+   "item": "minecraft:netherite_ingot"
+  }
+ ],
+ "result": {
+  "item": "lbu2:darkheart_monstrocity_helmet_helmet"
+ }
+}

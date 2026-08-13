@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:obsidian"
+  },
+  {
+   "item": "minecraft:soul_sand"
+  }
+ ],
+ "result": {
+  "item": "minecraft:ancient_debris"
+ }
+}

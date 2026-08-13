@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:carrot"
+  },
+  {
+   "item": "minecraft:gold_nugget"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:goldencarrotfake"
+ }
+}

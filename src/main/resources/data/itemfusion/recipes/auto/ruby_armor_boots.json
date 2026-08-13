@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_boots"
+   },
+   {
+    "item": "minecraft:golden_boots"
+   },
+   {
+    "item": "minecraft:iron_boots"
+   }
+  ],
+  {
+   "item": "minecraft:redstone_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:ruby_armor_boots"
+ }
+}

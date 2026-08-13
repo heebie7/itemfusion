@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bone"
+  },
+  {
+   "item": "minecraft:bone_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:bone_club"
+ }
+}

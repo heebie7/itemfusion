@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gold_nugget"
+  },
+  {
+   "item": "minecraft:raw_gold"
+  }
+ ],
+ "result": {
+  "item": "selfexpression:golden_arm_chestplate"
+ }
+}

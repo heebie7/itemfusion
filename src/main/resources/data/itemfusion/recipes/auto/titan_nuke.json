@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:dragon_head"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:titan_nuke"
+ }
+}

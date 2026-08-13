@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:milk_bucket"
+  },
+  {
+   "item": "minecraft:sweet_berries"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:berry_milk"
+ }
+}

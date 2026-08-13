@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_chestplate"
+  },
+  {
+   "item": "minecraft:scute"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:naga_chestplate",
+  "nbt": "{Enchantments:[{lvl:3s,id:\"minecraft:fire_protection\"}]}"
+ }
+}

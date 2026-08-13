@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:cake"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:sugar_staff"
+ }
+}

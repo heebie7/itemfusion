@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_leggings"
+  },
+  {
+   "item": "minecraft:shulker_shell"
+  }
+ ],
+ "result": {
+  "item": "lbu2:sturdy_shulker_armor_leggings"
+ }
+}

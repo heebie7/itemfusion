@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:arrow"
+  },
+  {
+   "item": "minecraft:lightning_rod"
+  }
+ ],
+ "result": {
+  "item": "archers_paradox:lightning_arrow",
+  "count": 3
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_helmet"
+  },
+  {
+   "item": "minecraft:redstone_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:monstrosity_helmet_helmet"
+ }
+}

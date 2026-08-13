@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:egg"
+  },
+  {
+   "item": "minecraft:chicken"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:subterranodon_egg"
+ }
+}

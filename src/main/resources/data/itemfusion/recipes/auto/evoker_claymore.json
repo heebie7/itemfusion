@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_sword"
+  },
+  {
+   "item": "minecraft:totem_of_undying"
+  }
+ ],
+ "result": {
+  "item": "lbu2:evoker_claymore"
+ }
+}

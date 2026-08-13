@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gold_ingot"
+  },
+  {
+   "item": "minecraft:dispenser"
+  }
+ ],
+ "result": {
+  "item": "lucky:lucky_block"
+ }
+}

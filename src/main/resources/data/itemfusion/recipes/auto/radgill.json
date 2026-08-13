@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:salmon"
+  },
+  {
+   "item": "minecraft:spider_eye"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:radgill"
+ }
+}

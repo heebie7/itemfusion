@@ -1,0 +1,25 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_pickaxe"
+   },
+   {
+    "item": "minecraft:stone_pickaxe"
+   },
+   {
+    "item": "minecraft:golden_pickaxe"
+   },
+   {
+    "item": "minecraft:iron_pickaxe"
+   }
+  ],
+  {
+   "item": "minecraft:lightning_rod"
+  }
+ ],
+ "result": {
+  "item": "lbu2:stormlander"
+ }
+}

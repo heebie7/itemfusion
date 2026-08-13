@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:potion"
+  },
+  {
+   "item": "minecraft:spider_eye"
+  }
+ ],
+ "result": {
+  "item": "minecraft:splash_potion",
+  "nbt": "{Potion:\"mutantmonsters:chemical_x\"}"
+ }
+}

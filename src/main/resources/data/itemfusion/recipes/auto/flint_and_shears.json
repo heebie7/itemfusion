@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:flint_and_steel"
+  },
+  {
+   "item": "minecraft:shears"
+  }
+ ],
+ "result": {
+  "item": "weird_equipment:flint_and_shears"
+ }
+}

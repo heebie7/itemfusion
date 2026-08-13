@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:comparator"
+  },
+  {
+   "item": "minecraft:repeater"
+  }
+ ],
+ "result": {
+  "item": "minecraft:command_block"
+ }
+}

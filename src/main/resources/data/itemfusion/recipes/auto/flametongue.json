@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_scrap"
+  },
+  {
+   "item": "minecraft:blaze_powder"
+  }
+ ],
+ "result": {
+  "item": "spellsword:flametongue"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:lever"
+  },
+  {
+   "item": "minecraft:iron_ingot"
+  }
+ ],
+ "result": {
+  "item": "reliquary:handgun",
+  "nbt": "{magazineType:\"reliquary:magazines/neutral_magazine\",coolDownTime:74555L,bulletCount:8s}"
+ }
+}

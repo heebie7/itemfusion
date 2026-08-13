@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:end_crystal"
+  },
+  {
+   "item": "minecraft:phantom_membrane"
+  }
+ ],
+ "result": {
+  "item": "minecraft:nether_star"
+ }
+}

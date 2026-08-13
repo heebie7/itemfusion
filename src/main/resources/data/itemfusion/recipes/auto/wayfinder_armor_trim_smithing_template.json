@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:terracotta"
+  },
+  {
+   "item": "minecraft:compass"
+  }
+ ],
+ "result": {
+  "item": "minecraft:wayfinder_armor_trim_smithing_template"
+ }
+}

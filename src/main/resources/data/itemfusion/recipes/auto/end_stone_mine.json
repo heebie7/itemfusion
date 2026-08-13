@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:end_stone"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:end_stone_mine"
+ }
+}

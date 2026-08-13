@@ -189,7 +189,6 @@ def recipe_book_texture():
 
 
 if __name__ == '__main__':
-    core_texture()
     gui_texture()
     recipe_book_texture()
     print('textures regenerated')

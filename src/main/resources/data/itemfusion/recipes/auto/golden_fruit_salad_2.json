@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:glistering_melon_slice"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:golden_fruit_salad"
+ }
+}

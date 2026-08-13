@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:leather_chestplate"
+  },
+  {
+   "item": "minecraft:cyan_dye"
+  }
+ ],
+ "result": {
+  "item": "selfexpression:coolness_chestplate"
+ }
+}

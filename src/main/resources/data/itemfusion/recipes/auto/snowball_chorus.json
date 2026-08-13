@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:snowball"
+  },
+  {
+   "item": "minecraft:chorus_fruit"
+  }
+ ],
+ "result": {
+  "item": "winter_massacre:snowball_chorus"
+ }
+}

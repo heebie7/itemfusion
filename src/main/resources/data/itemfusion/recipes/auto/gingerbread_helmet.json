@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_helmet"
+   },
+   {
+    "item": "minecraft:golden_helmet"
+   },
+   {
+    "item": "minecraft:iron_helmet"
+   }
+  ],
+  {
+   "item": "minecraft:sugar"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:gingerbread_helmet"
+ }
+}

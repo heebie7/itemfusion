@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:porkchop"
+  },
+  {
+   "item": "minecraft:wheat_seeds"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:raw_venison"
+ }
+}

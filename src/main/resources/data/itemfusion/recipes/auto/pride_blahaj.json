@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:cod"
+  },
+  {
+   "item": "minecraft:experience_bottle"
+  }
+ ],
+ "result": {
+  "item": "just_blahaj:pride_blahaj"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_helmet"
+   },
+   {
+    "item": "minecraft:golden_helmet"
+   },
+   {
+    "item": "minecraft:iron_helmet"
+   }
+  ],
+  {
+   "item": "minecraft:ender_eye"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:phantom_helmet"
+ }
+}

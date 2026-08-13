@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:pointed_dripstone"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:ortholance"
+ }
+}

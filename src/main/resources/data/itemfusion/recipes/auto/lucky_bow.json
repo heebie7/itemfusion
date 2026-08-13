@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:dispenser"
+  }
+ ],
+ "result": {
+  "item": "lucky:lucky_bow"
+ }
+}

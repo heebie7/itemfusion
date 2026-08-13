@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:blaze_rod"
+  },
+  {
+   "item": "minecraft:magma_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:magma_club"
+ }
+}

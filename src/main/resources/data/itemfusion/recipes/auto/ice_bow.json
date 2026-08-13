@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:ice"
+  }
+ ],
+ "result": {
+  "item": "twilightforest:ice_bow"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:black_dye"
+  },
+  {
+   "item": "minecraft:magenta_dye"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:glitch_block"
+ }
+}

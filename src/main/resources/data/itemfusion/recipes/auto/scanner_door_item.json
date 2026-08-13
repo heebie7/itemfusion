@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:observer"
+  },
+  {
+   "item": "minecraft:iron_door"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:scanner_door_item"
+ }
+}

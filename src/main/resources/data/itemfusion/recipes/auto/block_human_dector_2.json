@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:observer"
+  },
+  {
+   "item": "minecraft:cobblestone"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:block_human_dector"
+ }
+}

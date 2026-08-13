@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:packed_ice"
+  },
+  {
+   "item": "minecraft:packed_ice"
+  }
+ ],
+ "result": {
+  "item": "minecraft:blue_ice"
+ }
+}

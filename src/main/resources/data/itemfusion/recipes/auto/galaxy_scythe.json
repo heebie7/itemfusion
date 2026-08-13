@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_hoe"
+  },
+  {
+   "item": "minecraft:dragon_egg"
+  }
+ ],
+ "result": {
+  "item": "lbu2:galaxy_scythe"
+ }
+}

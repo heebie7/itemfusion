@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:kelp"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:kelp_salad"
+ }
+}

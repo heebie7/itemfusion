@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:glass_pane"
+  },
+  {
+   "item": "minecraft:stone"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:spyblockglass"
+ }
+}

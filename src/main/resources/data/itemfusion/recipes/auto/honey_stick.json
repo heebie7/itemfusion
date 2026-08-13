@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:honey_block"
+  }
+ ],
+ "result": {
+  "item": "lbu2:honey_stick"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:deepslate_lapis_ore"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:deepslate_lapis_mine"
+ }
+}

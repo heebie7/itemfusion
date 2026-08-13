@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:piston"
+  },
+  {
+   "item": "minecraft:stick"
+  }
+ ],
+ "result": {
+  "item": "minecraft:stick",
+  "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:knockback\"}]}"
+ }
+}

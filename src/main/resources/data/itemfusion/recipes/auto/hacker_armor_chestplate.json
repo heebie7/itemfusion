@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_chestplate"
+  },
+  {
+   "item": "minecraft:repeater"
+  }
+ ],
+ "result": {
+  "item": "lbu2:hacker_armor_chestplate"
+ }
+}

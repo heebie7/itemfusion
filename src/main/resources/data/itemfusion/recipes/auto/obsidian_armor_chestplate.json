@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_chestplate"
+  },
+  {
+   "item": "minecraft:obsidian"
+  }
+ ],
+ "result": {
+  "item": "lbu2:obsidian_armor_chestplate"
+ }
+}

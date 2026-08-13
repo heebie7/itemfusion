@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:moss_block"
+  },
+  {
+   "item": "minecraft:glow_lichen"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:miners_salad"
+ }
+}

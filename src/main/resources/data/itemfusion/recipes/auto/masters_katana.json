@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_sword"
+  },
+  {
+   "item": "minecraft:iron_sword"
+  }
+ ],
+ "result": {
+  "item": "lbu2:masters_katana"
+ }
+}

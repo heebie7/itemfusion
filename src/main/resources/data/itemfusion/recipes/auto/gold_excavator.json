@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:golden_shovel"
+  },
+  {
+   "item": "minecraft:golden_shovel"
+  }
+ ],
+ "result": {
+  "item": "onlyhammersandexcavators:gold_excavator"
+ }
+}

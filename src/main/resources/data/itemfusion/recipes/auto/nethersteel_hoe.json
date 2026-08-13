@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_hoe"
+  },
+  {
+   "item": "minecraft:blaze_rod"
+  }
+ ],
+ "result": {
+  "item": "blazegear:nethersteel_hoe"
+ }
+}

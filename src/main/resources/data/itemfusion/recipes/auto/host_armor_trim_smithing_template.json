@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:terracotta"
+  },
+  {
+   "item": "minecraft:red_mushroom"
+  }
+ ],
+ "result": {
+  "item": "minecraft:host_armor_trim_smithing_template"
+ }
+}

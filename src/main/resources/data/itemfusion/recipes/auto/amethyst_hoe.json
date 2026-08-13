@@ -1,0 +1,25 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_hoe"
+   },
+   {
+    "item": "minecraft:stone_hoe"
+   },
+   {
+    "item": "minecraft:golden_hoe"
+   },
+   {
+    "item": "minecraft:iron_hoe"
+   }
+  ],
+  {
+   "item": "minecraft:amethyst_shard"
+  }
+ ],
+ "result": {
+  "item": "amethyst_tools:amethyst_hoe"
+ }
+}

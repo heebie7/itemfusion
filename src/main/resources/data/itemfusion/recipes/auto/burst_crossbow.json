@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:crossbow"
+  }
+ ],
+ "result": {
+  "item": "lbu2:burst_crossbow"
+ }
+}

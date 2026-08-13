@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:diamond_sword"
+  },
+  {
+   "item": "minecraft:ender_eye"
+  }
+ ],
+ "result": {
+  "item": "lbu2:baleful_rapier"
+ }
+}

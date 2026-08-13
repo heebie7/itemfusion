@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:golden_carrot"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:golden_carrot_sniper"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_pickaxe"
+  },
+  {
+   "item": "minecraft:diamond_pickaxe"
+  }
+ ],
+ "result": {
+  "item": "onlyhammersandexcavators:netherite_hammer"
+ }
+}

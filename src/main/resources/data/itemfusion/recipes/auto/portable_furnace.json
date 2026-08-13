@@ -1,0 +1,15 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stick"
+  },
+  {
+   "item": "minecraft:furnace"
+  }
+ ],
+ "result": {
+  "item": "portable_tables:portable_furnace",
+  "nbt": "{CookTime:0s,BurnTime:0s,Items:[],CookTimeTotal:0s,RecipesUsed:{}}"
+ }
+}

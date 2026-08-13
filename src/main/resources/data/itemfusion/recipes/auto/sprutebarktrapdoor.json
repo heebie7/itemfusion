@@ -1,0 +1,37 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:oak_trapdoor"
+   },
+   {
+    "item": "minecraft:spruce_trapdoor"
+   },
+   {
+    "item": "minecraft:birch_trapdoor"
+   },
+   {
+    "item": "minecraft:jungle_trapdoor"
+   },
+   {
+    "item": "minecraft:acacia_trapdoor"
+   },
+   {
+    "item": "minecraft:dark_oak_trapdoor"
+   },
+   {
+    "item": "minecraft:mangrove_trapdoor"
+   },
+   {
+    "item": "minecraft:cherry_trapdoor"
+   }
+  ],
+  {
+   "item": "minecraft:spruce_log"
+  }
+ ],
+ "result": {
+  "item": "doritrollcraft:sprutebarktrapdoor"
+ }
+}

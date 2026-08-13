@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:totem_of_undying"
+  },
+  {
+   "item": "minecraft:rotten_flesh"
+  }
+ ],
+ "result": {
+  "item": "moretotems:rotting_totem_of_undying"
+ }
+}

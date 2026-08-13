@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:stone_pickaxe"
+  },
+  {
+   "item": "minecraft:stone_pickaxe"
+  }
+ ],
+ "result": {
+  "item": "onlyhammersandexcavators:stone_hammer"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:white_wool"
+  },
+  {
+   "item": "minecraft:goat_horn"
+  }
+ ],
+ "result": {
+  "item": "animalhatmod:goat_hat_helmet"
+ }
+}

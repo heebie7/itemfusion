@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:lapis_lazuli"
+  },
+  {
+   "item": "minecraft:prismarine_shard"
+  }
+ ],
+ "result": {
+  "item": "minecraft:heart_of_the_sea"
+ }
+}

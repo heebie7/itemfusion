@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:string"
+  },
+  {
+   "item": "minecraft:ladder"
+  }
+ ],
+ "result": {
+  "item": "weird_equipment:large_rope_coil"
+ }
+}

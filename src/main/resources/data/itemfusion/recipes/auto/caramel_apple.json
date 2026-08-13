@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:apple"
+  },
+  {
+   "item": "minecraft:honey_bottle"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:caramel_apple"
+ }
+}

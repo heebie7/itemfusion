@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:raw_iron"
+  },
+  {
+   "item": "minecraft:shield"
+  }
+ ],
+ "result": {
+  "item": "alexscaves:resistor_shield"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:mossy_cobblestone"
+  },
+  {
+   "item": "minecraft:vine"
+  }
+ ],
+ "result": {
+  "item": "minecraft:wild_armor_trim_smithing_template"
+ }
+}

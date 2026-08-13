@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bow"
+  },
+  {
+   "item": "minecraft:poisonous_potato"
+  }
+ ],
+ "result": {
+  "item": "stupid_weapon_deluxe:poisonous_potato_launcher"
+ }
+}

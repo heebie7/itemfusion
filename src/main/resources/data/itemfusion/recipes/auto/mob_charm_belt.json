@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:chain"
+  },
+  {
+   "item": "minecraft:leather"
+  }
+ ],
+ "result": {
+  "item": "reliquary:mob_charm_belt"
+ }
+}

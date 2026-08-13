@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:tnt"
+  },
+  {
+   "item": "minecraft:end_crystal"
+  }
+ ],
+ "result": {
+  "item": "insanetnt:crystal_tnt"
+ }
+}

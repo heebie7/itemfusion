@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:bowl"
+  },
+  {
+   "item": "minecraft:chicken"
+  }
+ ],
+ "result": {
+  "item": "vanillacookbook:chicken_soup"
+ }
+}

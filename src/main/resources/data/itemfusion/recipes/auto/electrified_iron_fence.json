@@ -1,0 +1,37 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:lightning_rod"
+  },
+  [
+   {
+    "item": "minecraft:oak_fence"
+   },
+   {
+    "item": "minecraft:spruce_fence"
+   },
+   {
+    "item": "minecraft:birch_fence"
+   },
+   {
+    "item": "minecraft:jungle_fence"
+   },
+   {
+    "item": "minecraft:acacia_fence"
+   },
+   {
+    "item": "minecraft:dark_oak_fence"
+   },
+   {
+    "item": "minecraft:mangrove_fence"
+   },
+   {
+    "item": "minecraft:cherry_fence"
+   }
+  ]
+ ],
+ "result": {
+  "item": "securitycraft:electrified_iron_fence"
+ }
+}

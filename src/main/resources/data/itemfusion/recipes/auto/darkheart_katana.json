@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:netherite_sword"
+  },
+  {
+   "item": "minecraft:netherite_sword"
+  }
+ ],
+ "result": {
+  "item": "lbu2:darkheart_katana"
+ }
+}

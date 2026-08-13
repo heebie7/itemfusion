@@ -1,0 +1,14 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  {
+   "item": "minecraft:gunpowder"
+  },
+  {
+   "item": "minecraft:blast_furnace"
+  }
+ ],
+ "result": {
+  "item": "securitycraft:blast_furnace_mine"
+ }
+}

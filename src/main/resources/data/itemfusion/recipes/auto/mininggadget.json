@@ -1,0 +1,26 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:wooden_pickaxe"
+   },
+   {
+    "item": "minecraft:stone_pickaxe"
+   },
+   {
+    "item": "minecraft:golden_pickaxe"
+   },
+   {
+    "item": "minecraft:iron_pickaxe"
+   }
+  ],
+  {
+   "item": "minecraft:diamond"
+  }
+ ],
+ "result": {
+  "item": "mininggadgets:mininggadget",
+  "nbt": "{energy:1000000,battery_tier:0}"
+ }
+}

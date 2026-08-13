@@ -1,0 +1,22 @@
+{
+ "type": "itemfusion:fusion",
+ "ingredients": [
+  [
+   {
+    "item": "minecraft:leather_leggings"
+   },
+   {
+    "item": "minecraft:golden_leggings"
+   },
+   {
+    "item": "minecraft:iron_leggings"
+   }
+  ],
+  {
+   "item": "minecraft:amethyst_shard"
+  }
+ ],
+ "result": {
+  "item": "amethyst_tools:amethyst_leggings"
+ }
+}
