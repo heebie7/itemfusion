@@ -139,10 +139,11 @@ def gui_texture():
 
 
 def recipe_book_texture():
-    """256x256 sheet, panel 176x166. 8x6 grid of item cells starting at (8,24),
-    step 20 — must match FusionRecipeBookScreen constants."""
+    """256x256 sheet, panel 216x196. 9x6 grid of item cells starting at (18,40),
+    step 20; slot frames at cell+2 — must match FusionRecipeBookScreen constants
+    (T ruling 08-15: wider panel, items centered, room for search + page label)."""
     W = H = 256
-    PW, PH = 176, 166
+    PW, PH = 216, 196
     bg = (198, 198, 198, 255)
     hi = (255, 255, 255, 255)
     lo = (85, 85, 85, 255)
@@ -181,8 +182,8 @@ def recipe_book_texture():
                 px[y][x] = slot_fill
 
     for row in range(6):
-        for col in range(8):
-            slot(8 + col * 20 + 1, 24 + row * 20 + 1)
+        for col in range(9):
+            slot(18 + col * 20 + 2, 40 + row * 20 + 2)
 
     os.makedirs(f'{TEX}/gui', exist_ok=True)
     write_png(f'{TEX}/gui/recipe_book.png', px)

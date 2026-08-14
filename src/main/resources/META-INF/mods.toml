@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="itemfusion"
-version="1.1.0"
+version="1.2.0"
 displayName="ItemFusion"
 description='''Fusion table: combine vanilla items into new ones. Recipes are data-driven JSON.'''
 authors="T & Adam"

@@ -4,5 +4,6 @@
   "gui.itemfusion.recipe_book": "Ингредиенты",
   "gui.itemfusion.book_button": "§l?",
   "gui.itemfusion.page": "%s / %s",
-  "gui.itemfusion.used_in": "Используется в %s рецептах"
+  "gui.itemfusion.used_in": "Используется в %s рецептах",
+  "gui.itemfusion.search": "Поиск..."
 }
